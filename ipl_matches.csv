@@ -1,0 +1,1170 @@
+match_id,city,match_date,match_number,season,venue,toss_winner,team1,team2,toss_decision,match_winner,player_of_match,match_result
+335982,Bangalore,18-04-2008,1,2008,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,46.0,won by 140 runs
+1082591,Hyderabad,05-04-2017,1,2017,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,15.0,won by 35 runs
+1082592,Pune,06-04-2017,2,2017,Maharashtra Cricket Association Stadium,Rising Pune Supergiant,Rising Pune Supergiant,Mumbai Indians,field,Rising Pune Supergiant,36.0,won by 7 wickets
+1082593,Rajkot,07-04-2017,3,2017,Saurashtra Cricket Association Stadium,Kolkata Knight Riders,Gujarat Lions,Kolkata Knight Riders,field,Kolkata Knight Riders,57.0,won by 10 wickets
+1082594,Indore,08-04-2017,4,2017,Holkar Cricket Stadium,Punjab Kings,Punjab Kings,Rising Pune Supergiant,field,Punjab Kings,71.0,won by 6 wickets
+1082595,Bengaluru,08-04-2017,5,2017,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Capitals,bat,Royal Challengers Bangalore,4.0,won by 15 runs
+1082596,Hyderabad,09-04-2017,6,2017,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Lions,field,Sunrisers Hyderabad,22.0,won by 9 wickets
+1082597,Mumbai,09-04-2017,7,2017,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,26.0,won by 4 wickets
+1082598,Indore,10-04-2017,8,2017,Holkar Cricket Stadium,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Punjab Kings,70.0,won by 8 wickets
+1082599,Pune,11-04-2017,9,2017,Maharashtra Cricket Association Stadium,Rising Pune Supergiant,Rising Pune Supergiant,Delhi Capitals,field,Delhi Capitals,180.0,won by 97 runs
+1082600,Mumbai,12-04-2017,10,2017,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,33.0,won by 4 wickets
+1082601,Kolkata,13-04-2017,11,2017,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,65.0,won by 8 wickets
+1082602,Bangalore,14-04-2017,12,2017,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,29.0,won by 4 wickets
+1082603,Rajkot,14-04-2017,13,2017,Saurashtra Cricket Association Stadium,Gujarat Lions,Gujarat Lions,Rising Pune Supergiant,field,Gujarat Lions,351.0,won by 7 wickets
+1082604,Kolkata,15-04-2017,14,2017,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,58.0,won by 17 runs
+1082605,Delhi,15-04-2017,15,2017,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Punjab Kings,bat,Delhi Capitals,258.0,won by 51 runs
+1082606,Mumbai,16-04-2017,16,2017,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Gujarat Lions,field,Mumbai Indians,26.0,won by 6 wickets
+1082607,Bangalore,16-04-2017,17,2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Rising Pune Supergiant,field,Rising Pune Supergiant,37.0,won by 27 runs
+1082608,Delhi,17-04-2017,18,2017,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,471.0,won by 4 wickets
+1082609,Hyderabad,17-04-2017,19,2017,"Rajiv Gandhi International Stadium, Uppal",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,20.0,won by 5 runs
+1082610,Rajkot,18-04-2017,20,2017,Saurashtra Cricket Association Stadium,Gujarat Lions,Gujarat Lions,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1.0,won by 21 runs
+1082611,Hyderabad,19-04-2017,21,2017,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,531.0,won by 15 runs
+1082612,Indore,20-04-2017,22,2017,Holkar Cricket Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,24.0,won by 8 wickets
+1082613,Kolkata,21-04-2017,23,2017,Eden Gardens,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,field,Gujarat Lions,47.0,won by 4 wickets
+1082614,Mumbai,22-04-2017,25,2017,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,32.0,won by 14 runs
+1082615,Pune,22-04-2017,24,2017,Maharashtra Cricket Association Stadium,Rising Pune Supergiant,Rising Pune Supergiant,Sunrisers Hyderabad,field,Rising Pune Supergiant,38.0,won by 6 wickets
+1082616,Rajkot,23-04-2017,26,2017,Saurashtra Cricket Association Stadium,Gujarat Lions,Gujarat Lions,Punjab Kings,field,Punjab Kings,67.0,won by 26 runs
+1082617,Kolkata,23-04-2017,27,2017,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,471.0,won by 82 runs
+1082618,Mumbai,24-04-2017,28,2017,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Rising Pune Supergiant,field,Rising Pune Supergiant,37.0,won by 3 runs
+1082620,Pune,26-04-2017,30,2017,Maharashtra Cricket Association Stadium,Kolkata Knight Riders,Rising Pune Supergiant,Kolkata Knight Riders,field,Kolkata Knight Riders,58.0,won by 7 wickets
+1082621,Bangalore,27-04-2017,31,2017,M Chinnaswamy Stadium,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,field,Gujarat Lions,351.0,won by 7 wickets
+1082622,Kolkata,28-04-2017,32,2017,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,field,Kolkata Knight Riders,56.0,won by 7 wickets
+1082623,Chandigarh,28-04-2017,33,2017,"Punjab Cricket Association IS Bindra Stadium, Mohali",Punjab Kings,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,22.0,won by 26 runs
+1082624,Pune,29-04-2017,34,2017,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,field,Rising Pune Supergiant,361.0,won by 61 runs
+1082625,Rajkot,29-04-2017,35,2017,Saurashtra Cricket Association Stadium,Gujarat Lions,Gujarat Lions,Mumbai Indians,bat,Mumbai Indians,28.0,tie
+1082626,Chandigarh,30-04-2017,36,2017,"Punjab Cricket Association IS Bindra Stadium, Mohali",Punjab Kings,Punjab Kings,Delhi Capitals,field,Punjab Kings,76.0,won by 10 wickets
+1082627,Hyderabad,30-04-2017,37,2017,"Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,12.0,won by 48 runs
+1082628,Mumbai,01-05-2017,38,2017,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Mumbai Indians,25.0,won by 5 wickets
+1082629,Pune,01-05-2017,39,2017,Maharashtra Cricket Association Stadium,Rising Pune Supergiant,Rising Pune Supergiant,Gujarat Lions,field,Rising Pune Supergiant,37.0,won by 5 wickets
+1082630,Delhi,02-05-2017,40,2017,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,460.0,won by 6 wickets
+1082631,Kolkata,03-05-2017,41,2017,Eden Gardens,Rising Pune Supergiant,Kolkata Knight Riders,Rising Pune Supergiant,field,Rising Pune Supergiant,268.0,won by 4 wickets
+1082632,Delhi,04-05-2017,42,2017,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Gujarat Lions,field,Delhi Capitals,181.0,won by 7 wickets
+1082633,Bangalore,05-05-2017,43,2017,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,76.0,won by 19 runs
+1082634,Hyderabad,06-05-2017,44,2017,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Rising Pune Supergiant,field,Rising Pune Supergiant,438.0,won by 12 runs
+1082635,Delhi,06-05-2017,45,2017,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,1035.0,won by 146 runs
+1082636,Bangalore,07-05-2017,46,2017,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,65.0,won by 6 wickets
+1082637,Chandigarh,07-05-2017,47,2017,"Punjab Cricket Association IS Bindra Stadium, Mohali",Gujarat Lions,Punjab Kings,Gujarat Lions,field,Gujarat Lions,50.0,won by 6 wickets
+1082638,Hyderabad,08-05-2017,48,2017,"Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,13.0,won by 7 wickets
+1082639,Chandigarh,09-05-2017,49,2017,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,75.0,won by 14 runs
+1082640,Kanpur,10-05-2017,50,2017,Green Park,Delhi Capitals,Gujarat Lions,Delhi Capitals,field,Delhi Capitals,389.0,won by 2 wickets
+1082641,Mumbai,11-05-2017,51,2017,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Punjab Kings,field,Punjab Kings,69.0,won by 7 runs
+1082642,Delhi,12-05-2017,52,2017,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Rising Pune Supergiant,bat,Delhi Capitals,179.0,won by 7 runs
+1082643,Kanpur,13-05-2017,53,2017,Green Park,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,field,Sunrisers Hyderabad,538.0,won by 8 wickets
+1082644,Kolkata,13-05-2017,54,2017,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,27.0,won by 9 runs
+1082645,Pune,14-05-2017,55,2017,Maharashtra Cricket Association Stadium,Rising Pune Supergiant,Rising Pune Supergiant,Punjab Kings,field,Rising Pune Supergiant,438.0,won by 9 wickets
+1082646,Delhi,14-05-2017,56,2017,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1285.0,won by 10 runs
+1473511,Ahmedabad,03-06-2025,final,2025,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Royal Challengers Bangalore,28.0,won by 6 runs
+1473510,Ahmedabad,01-06-2025,,2025,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,389.0,won by 5 wickets
+1473509,New Chandigarh,30-05-2025,,2025,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Mumbai Indians,Mumbai Indians,Gujarat Titans,bat,Mumbai Indians,25.0,won by 20 runs
+1473508,New Chandigarh,29-05-2025,,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,8475.0,won by 8 wickets
+1136561,Mumbai,07-04-2018,1,2018,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,1393.0,won by 1 wickets
+1136562,Chandigarh,08-04-2018,2,2018,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,1409.0,won by 6 wickets
+1136563,Kolkata,08-04-2018,3,2018,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,65.0,won by 4 wickets
+1136564,Hyderabad,09-04-2018,4,2018,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,13.0,won by 9 wickets
+1136565,Chennai,10-04-2018,5,2018,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,178.0,won by 5 wickets
+1136566,Jaipur,11-04-2018,6,2018,Sawai Mansingh Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,180.0,won by 10 runs
+1136567,Hyderabad,12-04-2018,7,2018,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,22.0,won by 1 wickets
+1136568,Bengaluru,13-04-2018,8,2018,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,318.0,won by 4 wickets
+1136569,Mumbai,14-04-2018,9,2018,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,45.0,won by 7 wickets
+1136570,Kolkata,14-04-2018,10,2018,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,176.0,won by 5 wickets
+1136571,Bengaluru,15-04-2018,11,2018,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Rajasthan Royals,180.0,won by 19 runs
+1136572,Chandigarh,15-04-2018,12,2018,Punjab Cricket Association IS Bindra Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,1.0,won by 4 runs
+1136573,Kolkata,16-04-2018,13,2018,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Kolkata Knight Riders,26.0,won by 71 runs
+1136574,Mumbai,17-04-2018,14,2018,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,25.0,won by 46 runs
+1136575,Jaipur,18-04-2018,15,2018,Sawai Mansingh Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,26.0,won by 7 wickets
+1136576,Chandigarh,19-04-2018,16,2018,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,Punjab Kings,Sunrisers Hyderabad,bat,Punjab Kings,1.0,won by 15 runs
+1136577,Pune,20-04-2018,17,2018,Maharashtra Cricket Association Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,5.0,won by 64 runs
+1136578,Kolkata,21-04-2018,18,2018,Eden Gardens,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,1409.0,won by 9 wickets
+1136579,Bengaluru,21-04-2018,19,2018,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,245.0,won by 6 wickets
+1136580,Hyderabad,22-04-2018,20,2018,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,27.0,won by 4 runs
+1136581,Jaipur,22-04-2018,21,2018,Sawai Mansingh Stadium,Mumbai Indians,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,1833.0,won by 3 wickets
+1136582,Delhi,23-04-2018,22,2018,Arun Jaitley Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,219.0,won by 4 runs
+1136583,Mumbai,24-04-2018,23,2018,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,22.0,won by 31 runs
+1136584,Bengaluru,25-04-2018,24,2018,M.Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,38.0,won by 5 wickets
+1136585,Hyderabad,26-04-2018,25,2018,Rajiv Gandhi International Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,219.0,won by 13 runs
+1136586,Delhi,27-04-2018,26,2018,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Delhi Capitals,389.0,won by 55 runs
+1136587,Pune,28-04-2018,27,2018,Maharashtra Cricket Association Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,25.0,won by 8 wickets
+1136588,Jaipur,29-04-2018,28,2018,Sawai Mansingh Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,531.0,won by 11 runs
+1136589,Bengaluru,29-04-2018,29,2018,M.Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,57.0,won by 6 wickets
+1136590,Pune,30-04-2018,30,2018,Maharashtra Cricket Association Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,5.0,won by 13 runs
+1136591,Bengaluru,01-05-2018,31,2018,M.Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Royal Challengers Bangalore,31.0,won by 14 runs
+1136592,Delhi,02-05-2018,32,2018,Arun Jaitley Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Delhi Capitals,181.0,won by 4 runs
+1136593,Kolkata,03-05-2018,33,2018,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,65.0,won by 6 wickets
+1136594,Indore,04-05-2018,34,2018,Holkar Cricket Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,61.0,won by 6 wickets
+1136595,Pune,05-05-2018,35,2018,Maharashtra Cricket Association Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,348.0,won by 6 wickets
+1136596,Hyderabad,05-05-2018,36,2018,Rajiv Gandhi International Stadium,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,22.0,won by 7 wickets
+1136597,Mumbai,06-05-2018,37,2018,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,30.0,won by 13 runs
+1136598,Indore,06-05-2018,38,2018,Holkar Cricket Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,1419.0,won by 6 wickets
+1136599,Hyderabad,07-05-2018,39,2018,Rajiv Gandhi International Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,531.0,won by 5 runs
+1136600,Jaipur,08-05-2018,40,2018,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,24.0,won by 15 runs
+1136601,Kolkata,09-05-2018,41,2018,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,347.0,won by 102 runs
+1136602,Delhi,10-05-2018,42,2018,Arun Jaitley Stadium,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,13.0,won by 9 wickets
+1136603,Jaipur,11-05-2018,43,2018,Sawai Mansingh Stadium,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,24.0,won by 4 wickets
+1136604,Indore,12-05-2018,44,2018,Holkar Cricket Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,65.0,won by 31 runs
+1136605,Delhi,12-05-2018,45,2018,Arun Jaitley Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,245.0,won by 5 wickets
+1136606,Pune,13-05-2018,46,2018,Maharashtra Cricket Association Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,27.0,won by 8 wickets
+1136607,Mumbai,13-05-2018,47,2018,Wankhede Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,24.0,won by 7 wickets
+1136608,Indore,14-05-2018,48,2018,Holkar Cricket Stadium,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,318.0,won by 10 wickets
+1136609,Kolkata,15-05-2018,49,2018,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,64.0,won by 6 wickets
+1136610,Mumbai,16-05-2018,50,2018,Wankhede Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,33.0,won by 3 runs
+1136611,Bengaluru,17-05-2018,51,2018,M.Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Royal Challengers Bangalore,245.0,won by 14 runs
+1136612,Delhi,18-05-2018,52,2018,Arun Jaitley Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Delhi Capitals,1285.0,won by 34 runs
+1136613,Jaipur,19-05-2018,53,2018,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,bat,Rajasthan Royals,1449.0,won by 30 runs
+1136614,Hyderabad,19-05-2018,54,2018,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,57.0,won by 5 wickets
+1136615,Delhi,20-05-2018,55,2018,Arun Jaitley Stadium,Delhi Capitals,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,185.0,won by 11 runs
+1136616,Pune,20-05-2018,56,2018,Maharashtra Cricket Association Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,2024.0,won by 5 wickets
+1426312,Chennai,26-05-2024,final,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,10109.0,won by 8 wickets
+1426311,Chennai,24-05-2024,,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,4310.0,won by 36 runs
+1426310,Ahmedabad,22-05-2024,,2024,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,1416.0,won by 4 wickets
+1426309,Ahmedabad,21-05-2024,,2024,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,10109.0,won by 8 wickets
+1175356,Chennai,23-03-2019,1,2019,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,228.0,won by 7 wickets
+1175357,Kolkata,24-03-2019,2,2019,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,1437.0,won by 6 wickets
+1175358,Mumbai,24-03-2019,3,2019,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,181.0,won by 37 runs
+1175359,Jaipur,25-03-2019,4,2019,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Punjab Kings,1.0,won by 14 runs
+1175360,Delhi,26-03-2019,5,2019,Arun Jaitley Stadium,Delhi Capitals,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,5.0,won by 6 wickets
+1175361,Kolkata,27-03-2019,6,2019,Eden Gardens,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,1437.0,won by 28 runs
+1175362,Bengaluru,28-03-2019,7,2019,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,33.0,won by 6 runs
+1175363,Hyderabad,29-03-2019,8,2019,Rajiv Gandhi International Stadium,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,22.0,won by 5 wickets
+1175364,Chandigarh,30-03-2019,9,2019,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,35.0,won by 8 wickets
+1175365,Delhi,30-03-2019,10,2019,Arun Jaitley Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,1849.0,tie
+1175366,Hyderabad,31-03-2019,11,2019,Rajiv Gandhi International Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,2719.0,won by 118 runs
+1175367,Chennai,31-03-2019,12,2019,MA Chidambaram Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,38.0,won by 8 runs
+1175368,Chandigarh,01-04-2019,13,2019,Punjab Cricket Association IS Bindra Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,2768.0,won by 14 runs
+1175369,Jaipur,02-04-2019,14,2019,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,1449.0,won by 7 wickets
+1175370,Mumbai,03-04-2019,15,2019,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,30.0,won by 37 runs
+1175371,Delhi,04-04-2019,16,2019,Arun Jaitley Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,2719.0,won by 5 wickets
+1175372,Bengaluru,05-04-2019,17,2019,M.Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,1437.0,won by 5 wickets
+1178393,Chennai,06-04-2019,18,2019,MA Chidambaram Stadium,Chennai Super Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,228.0,won by 22 runs
+1178394,Hyderabad,06-04-2019,19,2019,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,3100.0,won by 40 runs
+1178395,Bengaluru,07-04-2019,20,2019,M.Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Delhi Capitals,590.0,won by 4 wickets
+1178396,Jaipur,07-04-2019,21,2019,Sawai Mansingh Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,3156.0,won by 8 wickets
+1178397,Chandigarh,08-04-2019,22,2019,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,1409.0,won by 6 wickets
+1178398,Chennai,09-04-2019,23,2019,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,41.0,won by 7 wickets
+1178399,Mumbai,10-04-2019,24,2019,Wankhede Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,29.0,won by 3 wickets
+1178400,Jaipur,11-04-2019,25,2019,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Chennai Super Kings,38.0,won by 4 wickets
+1178401,Kolkata,12-04-2019,26,2019,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,13.0,won by 7 wickets
+1178402,Mumbai,13-04-2019,27,2019,Wankhede Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,24.0,won by 4 wickets
+1178403,Chandigarh,13-04-2019,28,2019,Punjab Cricket Association IS Bindra Stadium,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,245.0,won by 8 wickets
+1178404,Kolkata,14-04-2019,29,2019,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,44.0,won by 5 wickets
+1178405,Hyderabad,14-04-2019,30,2019,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,2745.0,won by 39 runs
+1178406,Mumbai,15-04-2019,31,2019,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,230.0,won by 5 wickets
+1178407,Chandigarh,16-04-2019,32,2019,Punjab Cricket Association IS Bindra Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Punjab Kings,1416.0,won by 12 runs
+1178408,Hyderabad,17-04-2019,33,2019,Rajiv Gandhi International Stadium,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,12.0,won by 6 wickets
+1178409,Delhi,18-04-2019,34,2019,Arun Jaitley Stadium,Mumbai Indians,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,30.0,won by 40 runs
+1178410,Kolkata,19-04-2019,35,2019,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,332.0,won by 10 runs
+1178411,Jaipur,20-04-2019,36,2019,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,36.0,won by 5 wickets
+1178412,Delhi,20-04-2019,37,2019,Arun Jaitley Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,389.0,won by 5 wickets
+1178413,Hyderabad,21-04-2019,38,2019,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,2662.0,won by 9 wickets
+1178414,Bengaluru,21-04-2019,39,2019,M.Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Royal Challengers Bangalore,23.0,won by 1 runs
+1178415,Jaipur,22-04-2019,40,2019,Sawai Mansingh Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Delhi Capitals,181.0,won by 6 wickets
+1178416,Chennai,23-04-2019,41,2019,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,5.0,won by 6 wickets
+1178417,Bengaluru,24-04-2019,42,2019,M.Chinnaswamy Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Royal Challengers Bangalore,245.0,won by 17 runs
+1178418,Kolkata,25-04-2019,43,2019,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,241.0,won by 3 wickets
+1178419,Chennai,26-04-2019,44,2019,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,25.0,won by 46 runs
+1178420,Jaipur,27-04-2019,45,2019,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,438.0,won by 7 wickets
+1178421,Delhi,28-04-2019,46,2019,Arun Jaitley Stadium,Delhi Capitals,Delhi Capitals,Royal Challengers Bangalore,bat,Delhi Capitals,13.0,won by 16 runs
+1178422,Kolkata,28-04-2019,47,2019,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,1437.0,won by 34 runs
+1178423,Hyderabad,29-04-2019,48,2019,Rajiv Gandhi International Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,12.0,won by 45 runs
+1178424,Bengaluru,30-04-2019,49,2019,M.Chinnaswamy Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,,no result
+1178425,Chennai,01-05-2019,50,2019,MA Chidambaram Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,38.0,won by 80 runs
+1178426,Mumbai,02-05-2019,51,2019,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,33.0,tie
+1178427,Chandigarh,03-05-2019,52,2019,Punjab Cricket Association IS Bindra Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,1580.0,won by 7 wickets
+1178428,Delhi,04-05-2019,53,2019,Arun Jaitley Stadium,Rajasthan Royals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,185.0,won by 5 wickets
+1178429,Bengaluru,04-05-2019,54,2019,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,2700.0,won by 4 wickets
+1178430,Chandigarh,05-05-2019,55,2019,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,1409.0,won by 6 wickets
+1178431,Mumbai,05-05-2019,56,2019,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,30.0,won by 9 wickets
+1370353,Ahmedabad,29-05-2023,final,2023,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,Chennai Super Kings,field,Chennai Super Kings,6657.0,won by 5 wickets
+1370352,Ahmedabad,26-05-2023,,2023,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Gujarat Titans,Mumbai Indians,field,Gujarat Titans,1580.0,won by 62 runs
+1370351,Chennai,24-05-2023,,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Mumbai Indians,Lucknow Super Giants,bat,Mumbai Indians,9371.0,won by 81 runs
+1370350,Chennai,23-05-2023,,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Gujarat Titans,Chennai Super Kings,Gujarat Titans,field,Chennai Super Kings,4119.0,won by 15 runs
+1216492,Abu Dhabi,19-09-2020,1,2020,Sheikh Zayed Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,27.0,won by 5 wickets
+1216493,,20-09-2020,2,2020,Dubai International Cricket Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,73.0,tie
+1216494,Abu Dhabi,21-10-2020,39,2020,Sheikh Zayed Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,538.0,won by 8 wickets
+1216495,,03-11-2020,56,2020,Sharjah Cricket Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,186.0,won by 10 wickets
+1216496,,22-09-2020,4,2020,Sharjah Cricket Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,180.0,won by 16 runs
+1216497,Abu Dhabi,24-10-2020,42,2020,Sheikh Zayed Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Kolkata Knight Riders,2825.0,won by 59 runs
+1216498,,24-10-2020,43,2020,Dubai International Cricket Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,1327.0,won by 12 runs
+1216499,Abu Dhabi,28-10-2020,48,2020,Sheikh Zayed Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,61.0,won by 5 wickets
+1216500,,09-10-2020,23,2020,Sharjah Cricket Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Delhi Capitals,1416.0,won by 46 runs
+1216501,Abu Dhabi,07-10-2020,21,2020,Sheikh Zayed Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,268.0,won by 10 runs
+1216502,,31-10-2020,52,2020,Sharjah Cricket Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Sunrisers Hyderabad,76.0,won by 5 wickets
+1216503,Abu Dhabi,01-10-2020,13,2020,Sheikh Zayed Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,29.0,won by 48 runs
+1216504,,30-09-2020,12,2020,Dubai International Cricket Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,1581.0,won by 37 runs
+1216505,Abu Dhabi,02-11-2020,55,2020,Sheikh Zayed Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Delhi Capitals,4047.0,won by 6 wickets
+1216506,Abu Dhabi,01-11-2020,53,2020,Sheikh Zayed Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,4119.0,won by 9 wickets
+1216507,,11-10-2020,26,2020,Dubai International Cricket Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,1119.0,won by 5 wickets
+1216508,Abu Dhabi,23-09-2020,5,2020,Sheikh Zayed Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,25.0,won by 49 runs
+1216509,,17-10-2020,34,2020,Sharjah Cricket Stadium,Chennai Super Kings,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals,13.0,won by 5 wickets
+1216510,,24-09-2020,6,2020,Dubai International Cricket Stadium,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,1409.0,won by 97 runs
+1216511,Abu Dhabi,06-10-2020,20,2020,Sheikh Zayed Stadium,Mumbai Indians,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,61.0,won by 57 runs
+1216512,Abu Dhabi,18-10-2020,35,2020,Sheikh Zayed Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,361.0,tie
+1216513,,04-10-2020,18,2020,Dubai International Cricket Stadium,Punjab Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,5.0,won by 10 wickets
+1216514,Abu Dhabi,03-10-2020,15,2020,Sheikh Zayed Stadium,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,10.0,won by 8 wickets
+1216515,,03-10-2020,16,2020,Sharjah Cricket Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Delhi Capitals,389.0,won by 18 runs
+1216516,,02-10-2020,14,2020,Dubai International Cricket Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,bat,Sunrisers Hyderabad,4097.0,won by 7 runs
+1216517,,18-10-2020,36,2020,Dubai International Cricket Stadium,Mumbai Indians,Mumbai Indians,Punjab Kings,bat,Punjab Kings,1409.0,tie
+1216518,,22-10-2020,40,2020,Dubai International Cricket Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,59.0,won by 8 wickets
+1216519,,05-10-2020,19,2020,Dubai International Cricket Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Delhi Capitals,70.0,won by 59 runs
+1216520,,26-10-2020,46,2020,Sharjah Cricket Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,1.0,won by 8 wickets
+1216521,,23-10-2020,41,2020,Sharjah Cricket Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,66.0,won by 10 wickets
+1216522,,17-10-2020,33,2020,Dubai International Cricket Stadium,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,245.0,won by 7 wickets
+1216523,Abu Dhabi,10-10-2020,24,2020,Sheikh Zayed Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,bat,Kolkata Knight Riders,49.0,won by 2 runs
+1216524,,27-10-2020,47,2020,Dubai International Cricket Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,69.0,won by 88 runs
+1216525,,10-10-2020,25,2020,Dubai International Cricket Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,332.0,won by 37 runs
+1216526,Abu Dhabi,16-10-2020,32,2020,Sheikh Zayed Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,1421.0,won by 8 wickets
+1216527,,27-09-2020,9,2020,Sharjah Cricket Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,180.0,won by 4 wickets
+1216528,,13-10-2020,29,2020,Dubai International Cricket Stadium,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,348.0,won by 20 runs
+1216529,Abu Dhabi,11-10-2020,27,2020,Sheikh Zayed Stadium,Delhi Capitals,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,1421.0,won by 5 wickets
+1216530,,01-11-2020,54,2020,Dubai International Cricket Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,184.0,won by 60 runs
+1216531,,15-10-2020,31,2020,Sharjah Cricket Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Punjab Kings,bat,Punjab Kings,1409.0,won by 8 wickets
+1216532,Abu Dhabi,29-09-2020,11,2020,Sheikh Zayed Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,22.0,won by 15 runs
+1216533,Abu Dhabi,19-10-2020,37,2020,Sheikh Zayed Stadium,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,24.0,won by 7 wickets
+1216534,,21-09-2020,3,2020,Dubai International Cricket Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Royal Challengers Bangalore,10.0,won by 10 runs
+1216535,,31-10-2020,51,2020,Dubai International Cricket Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,347.0,won by 9 wickets
+1216536,,29-10-2020,49,2020,Dubai International Cricket Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,4119.0,won by 6 wickets
+1216537,Abu Dhabi,30-10-2020,50,2020,Sheikh Zayed Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,37.0,won by 7 wickets
+1216538,,04-10-2020,17,2020,Sharjah Cricket Stadium,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,66.0,won by 34 runs
+1216539,,25-09-2020,7,2020,Dubai International Cricket Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Delhi Capitals,1849.0,won by 44 runs
+1216540,,12-10-2020,28,2020,Sharjah Cricket Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Royal Challengers Bangalore,245.0,won by 82 runs
+1216541,Abu Dhabi,25-10-2020,45,2020,Sheikh Zayed Stadium,Mumbai Indians,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,37.0,won by 8 wickets
+1216542,,08-10-2020,22,2020,Dubai International Cricket Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,2719.0,won by 69 runs
+1216543,,14-10-2020,30,2020,Dubai International Cricket Stadium,Delhi Capitals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,4047.0,won by 13 runs
+1216544,,25-10-2020,44,2020,Dubai International Cricket Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,4119.0,won by 8 wickets
+1216545,Abu Dhabi,26-09-2020,8,2020,Sheikh Zayed Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,1580.0,won by 7 wickets
+1216546,,20-10-2020,38,2020,Dubai International Cricket Stadium,Delhi Capitals,Delhi Capitals,Punjab Kings,bat,Punjab Kings,13.0,won by 5 wickets
+1216547,,28-09-2020,10,2020,Dubai International Cricket Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,245.0,tie
+1312200,Ahmedabad,29-05-2022,final,2022,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Rajasthan Royals,Gujarat Titans,bat,Gujarat Titans,30.0,won by 7 wickets
+1312199,Ahmedabad,27-05-2022,,2022,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,24.0,won by 7 wickets
+1312198,Kolkata,25-05-2022,,2022,"Eden Gardens, Kolkata",Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,field,Royal Challengers Bangalore,5349.0,won by 14 runs
+1312197,Kolkata,24-05-2022,,2022,"Eden Gardens, Kolkata",Gujarat Titans,Rajasthan Royals,Gujarat Titans,field,Gujarat Titans,72.0,won by 7 wickets
+1254058,Chennai,09-04-2021,1,2021,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1285.0,won by 2 wickets
+1254059,Mumbai,10-04-2021,2,2021,"Wankhede Stadium, Mumbai",Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Delhi Capitals,13.0,won by 7 wickets
+1254060,Chennai,11-04-2021,3,2021,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,26.0,won by 10 runs
+1254061,Mumbai,12-04-2021,4,2021,"Wankhede Stadium, Mumbai",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Punjab Kings,180.0,won by 4 runs
+1254062,Chennai,13-04-2021,5,2021,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,163.0,won by 10 runs
+1254063,Chennai,14-04-2021,6,2021,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Royal Challengers Bangalore,71.0,won by 6 runs
+1254064,Mumbai,15-04-2021,7,2021,"Wankhede Stadium, Mumbai",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,438.0,won by 3 wickets
+1254065,Mumbai,16-04-2021,8,2021,"Wankhede Stadium, Mumbai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,41.0,won by 6 wickets
+1254066,Chennai,17-04-2021,9,2021,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,29.0,won by 13 runs
+1254067,Chennai,18-04-2021,10,2021,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Royal Challengers Bangalore,245.0,won by 38 runs
+1254068,Mumbai,18-04-2021,11,2021,"Wankhede Stadium, Mumbai",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,13.0,won by 6 wickets
+1254069,Mumbai,19-04-2021,12,2021,"Wankhede Stadium, Mumbai",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,2227.0,won by 45 runs
+1254070,Chennai,20-04-2021,13,2021,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Mumbai Indians,Delhi Capitals,bat,Delhi Capitals,185.0,won by 6 wickets
+1254071,Chennai,21-04-2021,14,2021,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,2719.0,won by 9 wickets
+1254072,Mumbai,21-04-2021,15,2021,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,267.0,won by 18 runs
+1254073,Mumbai,22-04-2021,16,2021,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,4071.0,won by 10 wickets
+1254074,Chennai,23-04-2021,17,2021,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,1409.0,won by 9 wickets
+1254075,Mumbai,24-04-2021,18,2021,"Wankhede Stadium, Mumbai",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,182.0,won by 6 wickets
+1254076,Mumbai,25-04-2021,19,2021,"Wankhede Stadium, Mumbai",Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,348.0,won by 69 runs
+1254077,Chennai,25-04-2021,20,2021,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,1849.0,tie
+1254078,Ahmedabad,26-04-2021,21,2021,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,400.0,won by 5 wickets
+1254079,Ahmedabad,27-04-2021,22,2021,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,245.0,won by 1 runs
+1254080,Delhi,28-04-2021,23,2021,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,4119.0,won by 7 wickets
+1254081,Delhi,29-04-2021,24,2021,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,1421.0,won by 7 wickets
+1254082,Ahmedabad,29-04-2021,25,2021,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,1849.0,won by 7 wickets
+1254083,Ahmedabad,30-04-2021,26,2021,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,3495.0,won by 34 runs
+1254084,Delhi,01-05-2021,27,2021,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,29.0,won by 4 wickets
+1254085,Delhi,02-05-2021,28,2021,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Rajasthan Royals,24.0,won by 55 runs
+1254086,Ahmedabad,02-05-2021,29,2021,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,35.0,won by 7 wickets
+1254087,Abu Dhabi,20-09-2021,31,2021,"Zayed Cricket Stadium, Abu Dhabi",Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,2825.0,won by 9 wickets
+1254088,Abu Dhabi,08-10-2021,55,2021,"Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,347.0,won by 42 runs
+1254089,Abu Dhabi,02-10-2021,47,2021,"Zayed Cricket Stadium, Abu Dhabi",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,4119.0,won by 7 wickets
+1254090,Sharjah,03-10-2021,48,2021,Sharjah Cricket Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Punjab Kings,bat,Royal Challengers Bangalore,71.0,won by 6 runs
+1254091,Sharjah,30-09-2021,44,2021,Sharjah Cricket Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,4664.0,won by 6 wickets
+1254092,Sharjah,28-09-2021,41,2021,Sharjah Cricket Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,65.0,won by 3 wickets
+1254093,Sharjah,05-10-2021,51,2021,Sharjah Cricket Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,471.0,won by 8 wickets
+1254094,Dubai,07-10-2021,53,2021,Dubai International Cricket Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,1409.0,won by 6 wickets
+1254095,Abu Dhabi,06-10-2021,52,2021,"Zayed Cricket Stadium, Abu Dhabi",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,531.0,won by 4 runs
+1254096,Abu Dhabi,23-09-2021,34,2021,"Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,65.0,won by 7 wickets
+1254097,Abu Dhabi,25-09-2021,36,2021,"Zayed Cricket Stadium, Abu Dhabi",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Delhi Capitals,389.0,won by 33 runs
+1254098,Abu Dhabi,26-09-2021,38,2021,"Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,348.0,won by 2 wickets
+1254099,Abu Dhabi,28-09-2021,42,2021,"Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,29.0,won by 6 wickets
+1254100,Dubai,27-09-2021,40,2021,Dubai International Cricket Stadium,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,45.0,won by 7 wickets
+1254101,Dubai,08-10-2021,56,2021,Dubai International Cricket Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,5976.0,won by 7 wickets
+1254102,Dubai,01-10-2021,45,2021,Dubai International Cricket Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,1409.0,won by 5 wickets
+1254103,Dubai,29-09-2021,43,2021,Dubai International Cricket Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,10.0,won by 7 wickets
+1254104,Dubai,19-09-2021,30,2021,Dubai International Cricket Stadium,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,4119.0,won by 20 runs
+1254105,Dubai,22-09-2021,33,2021,Dubai International Cricket Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,4047.0,won by 8 wickets
+1254106,Sharjah,07-10-2021,54,2021,Sharjah Cricket Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,1581.0,won by 86 runs
+1254107,Sharjah,25-09-2021,37,2021,Sharjah Cricket Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,4098.0,won by 5 runs
+1254108,Dubai,26-09-2021,39,2021,Dubai International Cricket Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Royal Challengers Bangalore,71.0,won by 54 runs
+1254109,Dubai,03-10-2021,49,2021,Dubai International Cricket Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,1580.0,won by 6 wickets
+1254110,Dubai,04-10-2021,50,2021,Dubai International Cricket Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Delhi Capitals,70.0,won by 3 wickets
+1254111,Dubai,21-09-2021,32,2021,Dubai International Cricket Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,4212.0,won by 2 runs
+1254112,Sharjah,02-10-2021,46,2021,Sharjah Cricket Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,70.0,won by 4 wickets
+1254113,Sharjah,24-09-2021,35,2021,Sharjah Cricket Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,1393.0,won by 6 wickets
+1254117,Dubai,15-10-2021,final,2021,Dubai International Cricket Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,267.0,won by 27 runs
+1254116,Sharjah,13-10-2021,,2021,Sharjah Cricket Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,5986.0,won by 3 wickets
+1254115,Sharjah,11-10-2021,,2021,Sharjah Cricket Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,65.0,won by 4 wickets
+1254114,Dubai,10-10-2021,,2021,Dubai International Cricket Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,4119.0,won by 4 wickets
+1304047,Mumbai,26-03-2022,1,2022,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,318.0,won by 6 wickets
+1304048,Mumbai,27-03-2022,2,2022,"Brabourne Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,64.0,won by 4 wickets
+1304049,Mumbai,27-03-2022,3,2022,"Dr DY Patil Sports Academy, Mumbai",Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,6717.0,won by 5 wickets
+1304050,Mumbai,28-03-2022,4,2022,"Wankhede Stadium, Mumbai",Gujarat Titans,Lucknow Super Giants,Gujarat Titans,field,Gujarat Titans,460.0,won by 5 wickets
+1304051,Pune,29-03-2022,5,2022,"Maharashtra Cricket Association Stadium, Pune",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Rajasthan Royals,180.0,won by 61 runs
+1304052,Mumbai,30-03-2022,6,2022,"Dr DY Patil Sports Academy, Mumbai",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,5980.0,won by 3 wickets
+1304053,Mumbai,31-03-2022,7,2022,"Brabourne Stadium, Mumbai",Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,field,Lucknow Super Giants,1377.0,won by 6 wickets
+1304054,Mumbai,01-04-2022,8,2022,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,318.0,won by 6 wickets
+1304055,Mumbai,02-04-2022,9,2022,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,24.0,won by 23 runs
+1304056,Pune,02-04-2022,10,2022,"Maharashtra Cricket Association Stadium, Pune",Delhi Capitals,Gujarat Titans,Delhi Capitals,field,Gujarat Titans,361.0,won by 14 runs
+1304057,Mumbai,03-04-2022,11,2022,"Brabourne Stadium, Mumbai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,3284.0,won by 54 runs
+1304058,Mumbai,04-04-2022,12,2022,"Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,field,Lucknow Super Giants,1286.0,won by 12 runs
+1304059,Mumbai,05-04-2022,13,2022,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,49.0,won by 4 wickets
+1304060,Pune,06-04-2022,14,2022,"Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,184.0,won by 5 wickets
+1304061,Mumbai,07-04-2022,15,2022,"Dr DY Patil Sports Academy, Mumbai",Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,field,Lucknow Super Giants,1421.0,won by 6 wickets
+1304062,Mumbai,08-04-2022,16,2022,"Brabourne Stadium, Mumbai",Gujarat Titans,Punjab Kings,Gujarat Titans,field,Gujarat Titans,1580.0,won by 6 wickets
+1304063,Mumbai,09-04-2022,17,2022,"Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,2349.0,won by 8 wickets
+1304064,Pune,09-04-2022,18,2022,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,5935.0,won by 7 wickets
+1304065,Mumbai,10-04-2022,19,2022,"Brabourne Stadium, Mumbai",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Delhi Capitals,64.0,won by 44 runs
+1304066,Mumbai,10-04-2022,20,2022,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,field,Rajasthan Royals,10.0,won by 3 runs
+1304067,Mumbai,11-04-2022,21,2022,"Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,field,Sunrisers Hyderabad,531.0,won by 8 wickets
+1304068,Mumbai,12-04-2022,22,2022,"Dr DY Patil Sports Academy, Mumbai",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,2701.0,won by 23 runs
+1304069,Pune,13-04-2022,23,2022,"Maharashtra Cricket Association Stadium, Pune",Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,35.0,won by 12 runs
+1304070,Mumbai,14-04-2022,24,2022,"Dr DY Patil Sports Academy, Mumbai",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,Gujarat Titans,30.0,won by 37 runs
+1304071,Mumbai,15-04-2022,25,2022,"Brabourne Stadium, Mumbai",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,268.0,won by 7 wickets
+1304072,Mumbai,16-04-2022,26,2022,"Brabourne Stadium, Mumbai",Mumbai Indians,Lucknow Super Giants,Mumbai Indians,field,Lucknow Super Giants,1409.0,won by 18 runs
+1304073,Mumbai,16-04-2022,27,2022,"Wankhede Stadium, Mumbai",Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,49.0,won by 16 runs
+1304074,Mumbai,17-04-2022,28,2022,"Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,6017.0,won by 7 wickets
+1304075,Pune,17-04-2022,29,2022,"Maharashtra Cricket Association Stadium, Pune",Gujarat Titans,Chennai Super Kings,Gujarat Titans,field,Gujarat Titans,72.0,won by 3 wickets
+1304076,Mumbai,18-04-2022,30,2022,"Brabourne Stadium, Mumbai",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,10.0,won by 7 runs
+1304077,Mumbai,19-04-2022,31,2022,"Dr DY Patil Sports Academy, Mumbai",Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,field,Royal Challengers Bangalore,267.0,won by 18 runs
+1304078,Mumbai,20-04-2022,32,2022,"Brabourne Stadium, Mumbai",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,64.0,won by 9 wickets
+1304079,Navi Mumbai,21-04-2022,33,2022,"Dr DY Patil Sports Academy, Mumbai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,6798.0,won by 3 wickets
+1304080,Mumbai,22-04-2022,34,2022,"Wankhede Stadium, Mumbai",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,24.0,won by 15 runs
+1304081,Navi Mumbai,23-04-2022,35,2022,"Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,Gujarat Titans,Kolkata Knight Riders,bat,Gujarat Titans,22.0,won by 8 runs
+1304082,Mumbai,23-04-2022,36,2022,"Brabourne Stadium, Mumbai",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Sunrisers Hyderabad,5343.0,won by 9 wickets
+1304083,Mumbai,24-04-2022,37,2022,"Wankhede Stadium, Mumbai",Mumbai Indians,Lucknow Super Giants,Mumbai Indians,field,Lucknow Super Giants,1409.0,won by 36 runs
+1304084,Mumbai,25-04-2022,38,2022,"Wankhede Stadium, Mumbai",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,13.0,won by 11 runs
+1304085,Pune,26-04-2022,39,2022,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Rajasthan Royals,3230.0,won by 29 runs
+1304086,Mumbai,27-04-2022,40,2022,"Wankhede Stadium, Mumbai",Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,field,Gujarat Titans,6017.0,won by 5 wickets
+1304087,Mumbai,28-04-2022,41,2022,"Wankhede Stadium, Mumbai",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,64.0,won by 4 wickets
+1304088,Pune,29-04-2022,42,2022,"Maharashtra Cricket Association Stadium, Pune",Punjab Kings,Lucknow Super Giants,Punjab Kings,field,Lucknow Super Giants,28.0,won by 20 runs
+1304089,Mumbai,30-04-2022,43,2022,"Brabourne Stadium, Mumbai",Royal Challengers Bangalore,Royal Challengers Bangalore,Gujarat Titans,bat,Gujarat Titans,1119.0,won by 6 wickets
+1304090,Navi Mumbai,30-04-2022,44,2022,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,61.0,won by 5 wickets
+1304091,Mumbai,01-05-2022,45,2022,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Lucknow Super Giants,Delhi Capitals,bat,Lucknow Super Giants,6730.0,won by 6 runs
+1304092,Pune,01-05-2022,46,2022,"Maharashtra Cricket Association Stadium, Pune",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,4119.0,won by 13 runs
+1304093,Mumbai,02-05-2022,47,2022,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,1436.0,won by 7 wickets
+1304094,Navi Mumbai,03-05-2022,48,2022,"Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,Gujarat Titans,Punjab Kings,bat,Punjab Kings,590.0,won by 8 wickets
+1304095,Pune,04-05-2022,49,2022,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Royal Challengers Bangalore,1285.0,won by 13 runs
+1304096,Mumbai,05-05-2022,50,2022,"Brabourne Stadium, Mumbai",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,12.0,won by 21 runs
+1304097,Mumbai,06-05-2022,51,2022,"Brabourne Stadium, Mumbai",Gujarat Titans,Mumbai Indians,Gujarat Titans,field,Mumbai Indians,6550.0,won by 5 runs
+1304098,Mumbai,07-05-2022,52,2022,"Wankhede Stadium, Mumbai",Punjab Kings,Punjab Kings,Rajasthan Royals,bat,Rajasthan Royals,4104.0,won by 6 wickets
+1304099,Pune,07-05-2022,53,2022,"Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,field,Lucknow Super Giants,1286.0,won by 75 runs
+1304100,Mumbai,08-05-2022,54,2022,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,5980.0,won by 67 runs
+1304101,Navi Mumbai,08-05-2022,55,2022,"Dr DY Patil Sports Academy, Mumbai",Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,6657.0,won by 91 runs
+1304102,Navi Mumbai,09-05-2022,56,2022,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,33.0,won by 52 runs
+1304103,Pune,10-05-2022,57,2022,"Maharashtra Cricket Association Stadium, Pune",Gujarat Titans,Gujarat Titans,Lucknow Super Giants,bat,Gujarat Titans,1580.0,won by 62 runs
+1304104,Navi Mumbai,11-05-2022,58,2022,"Dr DY Patil Sports Academy, Mumbai",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Delhi Capitals,4960.0,won by 8 wickets
+1304105,Mumbai,12-05-2022,59,2022,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,4320.0,won by 5 wickets
+1304106,Mumbai,13-05-2022,60,2022,"Brabourne Stadium, Mumbai",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,2719.0,won by 54 runs
+1304107,Pune,14-05-2022,61,2022,"Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,1437.0,won by 54 runs
+1304108,Mumbai,15-05-2022,62,2022,"Wankhede Stadium, Mumbai",Chennai Super Kings,Chennai Super Kings,Gujarat Titans,bat,Gujarat Titans,69.0,won by 7 wickets
+1304109,Mumbai,15-05-2022,63,2022,"Brabourne Stadium, Mumbai",Rajasthan Royals,Rajasthan Royals,Lucknow Super Giants,bat,Rajasthan Royals,66.0,won by 24 runs
+1304110,Navi Mumbai,16-05-2022,64,2022,"Dr DY Patil Sports Academy, Mumbai",Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals,360.0,won by 17 runs
+1304111,Mumbai,17-05-2022,65,2022,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,268.0,won by 3 runs
+1304112,Navi Mumbai,18-05-2022,66,2022,"Dr DY Patil Sports Academy, Mumbai",Lucknow Super Giants,Lucknow Super Giants,Kolkata Knight Riders,bat,Lucknow Super Giants,1421.0,won by 2 runs
+1304113,Mumbai,19-05-2022,67,2022,"Wankhede Stadium, Mumbai",Gujarat Titans,Gujarat Titans,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,332.0,won by 8 wickets
+1304114,Mumbai,20-05-2022,68,2022,"Brabourne Stadium, Mumbai",Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,1416.0,won by 5 wickets
+1304115,Mumbai,21-05-2022,69,2022,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,33.0,won by 5 wickets
+1304116,Mumbai,22-05-2022,70,2022,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,3495.0,won by 5 wickets
+1237181,,10-11-2020,final,2020,Dubai International Cricket Stadium,Delhi Capitals,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,66.0,won by 5 wickets
+1237180,Abu Dhabi,08-11-2020,,2020,Sheikh Zayed Stadium,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,73.0,won by 17 runs
+1237178,Abu Dhabi,06-11-2020,,2020,Sheikh Zayed Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Sunrisers Hyderabad,531.0,won by 6 wickets
+1237177,,05-11-2020,,2020,Dubai International Cricket Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,33.0,won by 57 runs
+1359475,Ahmedabad,31-03-2023,1,2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Chennai Super Kings,Gujarat Titans,field,Gujarat Titans,22.0,won by 5 wickets
+1359476,Chandigarh,01-04-2023,2,2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,3388.0,won by 7 runs
+1359477,Lucknow,01-04-2023,3,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi Capitals,Lucknow Super Giants,Delhi Capitals,field,Lucknow Super Giants,1396.0,won by 50 runs
+1359478,Hyderabad,02-04-2023,4,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Rajasthan Royals,24.0,won by 72 runs
+1359479,Bengaluru,02-04-2023,5,2023,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,267.0,won by 8 wickets
+1359480,Chennai,03-04-2023,6,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,field,Chennai Super Kings,2227.0,won by 12 runs
+1359481,Delhi,04-04-2023,7,2023,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Delhi Capitals,Gujarat Titans,field,Gujarat Titans,6999.0,won by 6 wickets
+1359482,Guwahati,05-04-2023,8,2023,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Punjab Kings,6245.0,won by 5 runs
+1359483,Kolkata,06-04-2023,9,2023,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,360.0,won by 81 runs
+1359484,Lucknow,07-04-2023,10,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Sunrisers Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,28.0,won by 5 wickets
+1359485,Guwahati,08-04-2023,11,2023,"Barsapara Cricket Stadium, Guwahati",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,4104.0,won by 57 runs
+1359486,Mumbai,08-04-2023,12,2023,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,348.0,won by 7 wickets
+1359487,Ahmedabad,09-04-2023,13,2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Gujarat Titans,Kolkata Knight Riders,bat,Kolkata Knight Riders,1436.0,won by 3 wickets
+1359488,Hyderabad,09-04-2023,14,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,13.0,won by 8 wickets
+1359489,Bengaluru,10-04-2023,15,2023,"M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,field,Lucknow Super Giants,2766.0,won by 1 wickets
+1359490,Delhi,11-04-2023,16,2023,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,25.0,won by 6 wickets
+1359491,Chennai,12-04-2023,17,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,1416.0,won by 3 runs
+1359492,Chandigarh,13-04-2023,18,2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Gujarat Titans,Punjab Kings,Gujarat Titans,field,Gujarat Titans,75.0,won by 6 wickets
+1359493,Kolkata,14-04-2023,19,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,8372.0,won by 23 runs
+1359494,Bengaluru,15-04-2023,20,2023,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,332.0,won by 23 runs
+1359495,Lucknow,15-04-2023,21,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab Kings,Lucknow Super Giants,Punjab Kings,field,Punjab Kings,8312.0,won by 2 wickets
+1359496,Mumbai,16-04-2023,22,2023,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,5986.0,won by 5 wickets
+1359497,Ahmedabad,16-04-2023,23,2023,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,Rajasthan Royals,2700.0,won by 3 wickets
+1359498,Bengaluru,17-04-2023,24,2023,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,6657.0,won by 8 runs
+1359499,Hyderabad,18-04-2023,25,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,8383.0,won by 14 runs
+1359500,Jaipur,19-04-2023,26,2023,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,field,Lucknow Super Giants,73.0,won by 10 runs
+1359501,Chandigarh,20-04-2023,27,2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Royal Challengers Bangalore,538.0,won by 24 runs
+1359502,Delhi,20-04-2023,28,2023,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,308.0,won by 4 wickets
+1359503,Chennai,21-04-2023,29,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,348.0,won by 7 wickets
+1359504,Lucknow,22-04-2023,30,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Titans,Gujarat Titans,Lucknow Super Giants,bat,Gujarat Titans,75.0,won by 7 runs
+1359505,Mumbai,22-04-2023,31,2023,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,2768.0,won by 13 runs
+1359506,Bengaluru,23-04-2023,32,2023,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,71.0,won by 7 runs
+1359507,Kolkata,23-04-2023,33,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,34.0,won by 49 runs
+1359508,Hyderabad,24-04-2023,34,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,70.0,won by 7 runs
+1359509,Ahmedabad,25-04-2023,35,2023,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Gujarat Titans,Mumbai Indians,field,Gujarat Titans,6739.0,won by 55 runs
+1359510,Bengaluru,26-04-2023,36,2023,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,2825.0,won by 21 runs
+1359511,Jaipur,27-04-2023,37,2023,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,4104.0,won by 32 runs
+1359512,Chandigarh,28-04-2023,38,2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Punjab Kings,Lucknow Super Giants,Punjab Kings,field,Lucknow Super Giants,73.0,won by 56 runs
+1359513,Kolkata,29-04-2023,39,2023,"Eden Gardens, Kolkata",Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,field,Gujarat Titans,8305.0,won by 7 wickets
+1359514,Delhi,29-04-2023,40,2023,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,4960.0,won by 9 runs
+1359515,Chennai,30-04-2023,41,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Chennai Super Kings,Punjab Kings,bat,Punjab Kings,6657.0,won by 4 wickets
+1359516,Mumbai,30-04-2023,42,2023,"Wankhede Stadium, Mumbai",Rajasthan Royals,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,4104.0,won by 6 wickets
+1359517,Lucknow,01-05-2023,43,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bangalore,Royal Challengers Bangalore,Lucknow Super Giants,bat,Royal Challengers Bangalore,267.0,won by 18 runs
+1359518,Ahmedabad,02-05-2023,44,2023,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Delhi Capitals,Gujarat Titans,bat,Delhi Capitals,460.0,won by 5 runs
+1359519,Lucknow,03-05-2023,45,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,field,Chennai Super Kings,,no result
+1359520,Chandigarh,03-05-2023,46,2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,347.0,won by 6 wickets
+1359521,Hyderabad,04-05-2023,47,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,2825.0,won by 5 runs
+1359522,Jaipur,05-05-2023,48,2023,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Rajasthan Royals,Gujarat Titans,bat,Gujarat Titans,22.0,won by 9 wickets
+1359523,Chennai,06-05-2023,49,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,8007.0,won by 6 wickets
+1359524,Delhi,06-05-2023,50,2023,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,8945.0,won by 7 wickets
+1359525,Ahmedabad,07-05-2023,51,2023,"Narendra Modi Stadium, Ahmedabad",Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,field,Gujarat Titans,1580.0,won by 56 runs
+1359526,Jaipur,07-05-2023,52,2023,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,6033.0,won by 4 wickets
+1359527,Kolkata,08-05-2023,53,2023,"Eden Gardens, Kolkata",Punjab Kings,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,1437.0,won by 5 wickets
+1359528,Mumbai,09-05-2023,54,2023,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,61.0,won by 6 wickets
+1359529,Chennai,10-05-2023,55,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,348.0,won by 27 runs
+1359530,Kolkata,11-05-2023,56,2023,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,4104.0,won by 9 wickets
+1359531,Mumbai,12-05-2023,57,2023,"Wankhede Stadium, Mumbai",Gujarat Titans,Mumbai Indians,Gujarat Titans,field,Mumbai Indians,61.0,won by 27 runs
+1359532,Hyderabad,13-05-2023,58,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Sunrisers Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,8191.0,won by 7 wickets
+1359533,Delhi,13-05-2023,59,2023,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,3747.0,won by 31 runs
+1359534,Jaipur,14-05-2023,60,2023,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,8626.0,won by 112 runs
+1359535,Chennai,14-05-2023,61,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,1436.0,won by 6 wickets
+1359536,Ahmedabad,15-05-2023,62,2023,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,field,Gujarat Titans,1580.0,won by 34 runs
+1359537,Lucknow,16-05-2023,63,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Mumbai Indians,Lucknow Super Giants,Mumbai Indians,field,Lucknow Super Giants,73.0,won by 5 runs
+1359538,Dharamsala,17-05-2023,64,2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals,8349.0,won by 15 runs
+1359539,Hyderabad,18-05-2023,65,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,332.0,won by 8 wickets
+1359540,Dharamsala,19-05-2023,66,2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,4071.0,won by 4 wickets
+1359541,Delhi,20-05-2023,67,2023,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,4119.0,won by 77 runs
+1359542,Kolkata,20-05-2023,68,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,field,Lucknow Super Giants,2766.0,won by 1 runs
+1359543,Mumbai,21-05-2023,69,2023,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,8383.0,won by 8 wickets
+1359544,Bengaluru,21-05-2023,70,2023,"M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,field,Gujarat Titans,1580.0,won by 6 wickets
+1181768,Hyderabad,12-05-2019,final,2019,Rajiv Gandhi International Stadium,Mumbai Indians,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,33.0,won by 1 runs
+1181767,Visakhapatnam,10-05-2019,,2019,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,267.0,won by 6 wickets
+1181766,Visakhapatnam,08-05-2019,,2019,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,181.0,won by 2 wickets
+1181764,Chennai,07-05-2019,,2019,MA Chidambaram Stadium,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,61.0,won by 6 wickets
+1422119,Chennai,22-03-2024,1,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,297.0,won by 6 wickets
+1422120,Mohali,23-03-2024,2,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,2768.0,won by 4 wickets
+1422121,Kolkata,23-03-2024,3,2024,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,1437.0,won by 4 runs
+1422122,Jaipur,24-03-2024,4,2024,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Rajasthan Royals,Lucknow Super Giants,bat,Rajasthan Royals,180.0,won by 20 runs
+1422123,Ahmedabad,24-03-2024,5,2024,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Gujarat Titans,Mumbai Indians,field,Gujarat Titans,6999.0,won by 6 runs
+1422124,Bengaluru,25-03-2024,6,2024,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,332.0,won by 4 wickets
+1422125,Chennai,26-03-2024,7,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Gujarat Titans,Chennai Super Kings,Gujarat Titans,field,Chennai Super Kings,2701.0,won by 63 runs
+1422126,Hyderabad,27-03-2024,8,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,2349.0,won by 31 runs
+1422127,Jaipur,28-03-2024,9,2024,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,3230.0,won by 12 runs
+1422128,Bengaluru,29-03-2024,10,2024,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,65.0,won by 7 wickets
+1422129,Lucknow,30-03-2024,11,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Lucknow Super Giants,Punjab Kings,bat,Lucknow Super Giants,10302.0,won by 21 runs
+1422130,Ahmedabad,31-03-2024,12,2024,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Titans,bat,Gujarat Titans,75.0,won by 7 wickets
+1422131,Visakhapatnam,31-03-2024,13,2024,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Delhi Capitals,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,2662.0,won by 20 runs
+1422132,Mumbai,01-04-2024,14,2024,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,66.0,won by 6 wickets
+1422133,Bengaluru,02-04-2024,15,2024,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,field,Lucknow Super Giants,10302.0,won by 28 runs
+1422134,Visakhapatnam,03-04-2024,16,2024,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,65.0,won by 106 runs
+1422135,Ahmedabad,04-04-2024,17,2024,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Gujarat Titans,Punjab Kings,field,Punjab Kings,7024.0,won by 3 wickets
+1422136,Hyderabad,05-04-2024,18,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,2349.0,won by 6 wickets
+1422137,Jaipur,06-04-2024,19,2024,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,24.0,won by 6 wickets
+1422138,Mumbai,07-04-2024,20,2024,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,6761.0,won by 29 runs
+1422139,Lucknow,07-04-2024,21,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Lucknow Super Giants,Gujarat Titans,bat,Lucknow Super Giants,8425.0,won by 33 runs
+1426260,Chennai,08-04-2024,22,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,348.0,won by 7 wickets
+1426261,Mohali,09-04-2024,23,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,9824.0,won by 2 runs
+1426262,Jaipur,10-04-2024,24,2024,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Rajasthan Royals,Gujarat Titans,field,Gujarat Titans,22.0,won by 3 wickets
+1426263,Mumbai,11-04-2024,25,2024,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,33.0,won by 7 wickets
+1426264,Lucknow,12-04-2024,26,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Lucknow Super Giants,Delhi Capitals,bat,Delhi Capitals,64.0,won by 6 wickets
+1426265,Mohali,13-04-2024,27,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,2700.0,won by 3 wickets
+1426266,Kolkata,14-04-2024,28,2024,"Eden Gardens, Kolkata",Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,field,Kolkata Knight Riders,8945.0,won by 8 wickets
+1426267,Mumbai,14-04-2024,29,2024,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings,8007.0,won by 20 runs
+1426268,Bengaluru,15-04-2024,30,2024,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,3.0,won by 25 runs
+1426269,Kolkata,16-04-2024,31,2024,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,24.0,won by 2 wickets
+1426270,Ahmedabad,17-04-2024,32,2024,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Gujarat Titans,Delhi Capitals,field,Delhi Capitals,181.0,won by 6 wickets
+1426271,Mohali,18-04-2024,33,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,33.0,won by 9 runs
+1426272,Lucknow,19-04-2024,34,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,field,Lucknow Super Giants,1409.0,won by 8 wickets
+1426273,Delhi,20-04-2024,35,2024,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,3.0,won by 67 runs
+1426274,Kolkata,21-04-2024,36,2024,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,1437.0,won by 1 runs
+1426275,Mohali,21-04-2024,37,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Punjab Kings,Gujarat Titans,bat,Gujarat Titans,7895.0,won by 3 wickets
+1426276,Jaipur,22-04-2024,38,2024,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,76.0,won by 9 wickets
+1426277,Chennai,23-04-2024,39,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,field,Lucknow Super Giants,73.0,won by 6 wickets
+1426278,Delhi,24-04-2024,40,2024,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Delhi Capitals,Gujarat Titans,field,Delhi Capitals,181.0,won by 4 runs
+1426279,Hyderabad,25-04-2024,41,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,5349.0,won by 35 runs
+1426280,Kolkata,26-04-2024,42,2024,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,2719.0,won by 8 wickets
+1426281,Delhi,27-04-2024,43,2024,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,10667.0,won by 10 runs
+1426282,Lucknow,27-04-2024,44,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,field,Rajasthan Royals,180.0,won by 7 wickets
+1426283,Ahmedabad,28-04-2024,45,2024,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,field,Royal Challengers Bangalore,10630.0,won by 9 wickets
+1426284,Chennai,28-04-2024,46,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,4119.0,won by 78 runs
+1426285,Kolkata,29-04-2024,47,2024,"Eden Gardens, Kolkata",Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,2825.0,won by 7 wickets
+1426286,Lucknow,30-04-2024,48,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,field,Lucknow Super Giants,73.0,won by 4 wickets
+1426287,Chennai,01-05-2024,49,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,3495.0,won by 7 wickets
+1426288,Hyderabad,02-05-2024,50,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,20.0,won by 1 runs
+1426289,Mumbai,03-05-2024,51,2024,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,5986.0,won by 24 runs
+1426290,Bengaluru,04-05-2024,52,2024,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,field,Royal Challengers Bangalore,538.0,won by 4 wickets
+1426291,Dharamsala,05-05-2024,53,2024,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Chennai Super Kings,Punjab Kings,field,Chennai Super Kings,348.0,won by 28 runs
+1426292,Lucknow,05-05-2024,54,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,field,Kolkata Knight Riders,65.0,won by 98 runs
+1426293,Mumbai,06-05-2024,55,2024,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,61.0,won by 7 wickets
+1426294,Delhi,07-05-2024,56,2024,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Delhi Capitals,64.0,won by 20 runs
+1426295,Hyderabad,08-05-2024,57,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Lucknow Super Giants,Lucknow Super Giants,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,3.0,won by 10 wickets
+1426296,Dharamsala,09-05-2024,58,2024,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Royal Challengers Bangalore,332.0,won by 60 runs
+1426297,Ahmedabad,10-05-2024,59,2024,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,Chennai Super Kings,field,Gujarat Titans,1580.0,won by 35 runs
+1426298,Kolkata,11-05-2024,60,2024,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,2825.0,won by 18 runs
+1426299,Chennai,12-05-2024,61,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,7652.0,won by 5 wickets
+1426300,Bengaluru,12-05-2024,62,2024,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,8383.0,won by 47 runs
+1426302,Delhi,14-05-2024,64,2024,"Arun Jaitley Stadium, Delhi",Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,field,Delhi Capitals,308.0,won by 19 runs
+1426303,Guwahati,15-05-2024,65,2024,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Rajasthan Royals,Punjab Kings,bat,Punjab Kings,2768.0,won by 5 wickets
+1426305,Mumbai,17-05-2024,67,2024,"Wankhede Stadium, Mumbai",Mumbai Indians,Lucknow Super Giants,Mumbai Indians,field,Lucknow Super Giants,2766.0,won by 18 runs
+1426306,Bengaluru,18-05-2024,68,2024,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Royal Challengers Bangalore,267.0,won by 27 runs
+1426307,Hyderabad,19-05-2024,69,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Punjab Kings,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,2349.0,won by 4 wickets
+1136620,Mumbai,27-05-2018,final,2018,Wankhede Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,5.0,won by 8 wickets
+1136619,Kolkata,25-05-2018,,2018,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,22.0,won by 14 runs
+1136618,Kolkata,23-05-2018,,2018,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,1437.0,won by 25 runs
+1136617,Mumbai,22-05-2018,,2018,Wankhede Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,267.0,won by 2 wickets
+1473438,Kolkata,22-03-2025,1,2025,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,28.0,won by 7 wickets
+1473439,Hyderabad,23-03-2025,2,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,347.0,won by 44 runs
+1473440,Chennai,23-03-2025,3,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,8809.0,won by 4 wickets
+1473441,Visakhapatnam,24-03-2025,4,2025,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Delhi Capitals,Lucknow Super Giants,Delhi Capitals,field,Delhi Capitals,10456.0,won by 1 wickets
+1473442,Ahmedabad,25-03-2025,5,2025,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Punjab Kings,Gujarat Titans,field,Punjab Kings,389.0,won by 11 runs
+1473443,Guwahati,26-03-2025,6,2025,"Barsapara Cricket Stadium, Guwahati",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,1421.0,won by 8 wickets
+1473444,Hyderabad,27-03-2025,7,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,field,Lucknow Super Giants,360.0,won by 5 wickets
+1473445,Chennai,28-03-2025,8,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Royal Challengers Bangalore,5349.0,won by 50 runs
+335983,Chandigarh,19-04-2008,2,2008,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,11943.0,won by 33 runs
+335984,Delhi,19-04-2008,3,2008,Feroz Shah Kotla,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,11982.0,won by 9 wickets
+335985,Mumbai,20-04-2008,5,2008,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,11935.0,won by 5 wickets
+335986,Kolkata,20-04-2008,4,2008,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,11922.0,won by 5 wickets
+335987,Jaipur,21-04-2008,6,2008,Sawai Mansingh Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,5.0,won by 6 wickets
+335988,Hyderabad,22-04-2008,7,2008,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,11975.0,won by 9 wickets
+335989,Chennai,23-04-2008,8,2008,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings,11942.0,won by 6 runs
+335990,Hyderabad,24-04-2008,9,2008,"Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,60.0,won by 3 wickets
+335991,Chandigarh,25-04-2008,10,2008,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,11954.0,won by 66 runs
+335992,Bangalore,26-04-2008,12,2008,M Chinnaswamy Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,5.0,won by 7 wickets
+335993,Chennai,26-04-2008,11,2008,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,11946.0,won by 9 wickets
+335994,Mumbai,27-04-2008,14,2008,Dr DY Patil Sports Academy,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,12007.0,won by 10 wickets
+335995,Chandigarh,27-04-2008,13,2008,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,11956.0,won by 4 wickets
+335996,Bangalore,28-04-2008,15,2008,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,38.0,won by 13 runs
+335997,Kolkata,29-04-2008,16,2008,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,11986.0,won by 7 wickets
+335998,Delhi,30-04-2008,17,2008,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Delhi Capitals,11984.0,won by 10 runs
+335999,Hyderabad,01-05-2008,19,2008,"Rajiv Gandhi International Stadium, Uppal",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,541.0,won by 7 wickets
+336000,Jaipur,01-05-2008,18,2008,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,bat,Rajasthan Royals,12327.0,won by 45 runs
+336001,Chennai,02-05-2008,20,2008,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals,11975.0,won by 8 wickets
+336002,Hyderabad,25-05-2008,51,2008,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1242.0,won by 5 wickets
+336003,Chandigarh,03-05-2008,22,2008,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Kolkata Knight Riders,bat,Punjab Kings,811.0,won by 9 runs
+336004,Mumbai,04-05-2008,23,2008,Dr DY Patil Sports Academy,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,11991.0,won by 29 runs
+336005,Jaipur,04-05-2008,24,2008,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,12147.0,won by 8 wickets
+336006,Bangalore,05-05-2008,25,2008,M Chinnaswamy Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,11962.0,won by 6 wickets
+336007,Chennai,06-05-2008,26,2008,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,12007.0,won by 7 wickets
+336008,Mumbai,07-05-2008,27,2008,Dr DY Patil Sports Academy,Mumbai Indians,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,21.0,won by 7 wickets
+336009,Delhi,08-05-2008,28,2008,Feroz Shah Kotla,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,38.0,won by 4 wickets
+336010,Kolkata,08-05-2008,29,2008,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Kolkata Knight Riders,11919.0,won by 5 runs
+336011,Jaipur,09-05-2008,30,2008,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,field,Rajasthan Royals,60.0,won by 8 wickets
+336012,Bangalore,28-05-2008,55,2008,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,12269.0,won by 9 wickets
+336013,Chennai,10-05-2008,31,2008,"MA Chidambaram Stadium, Chepauk",Punjab Kings,Chennai Super Kings,Punjab Kings,field,Chennai Super Kings,12523.0,won by 18 runs
+336014,Hyderabad,11-05-2008,32,2008,"Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,11919.0,won by 23 runs
+336015,Jaipur,11-05-2008,33,2008,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,5.0,won by 3 wickets
+336016,Chandigarh,12-05-2008,34,2008,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Punjab Kings,541.0,won by 9 wickets
+336017,Kolkata,13-05-2008,35,2008,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,12710.0,won by 23 runs
+336018,Mumbai,14-05-2008,36,2008,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,11986.0,won by 9 wickets
+336019,Chandigarh,28-05-2008,56,2008,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Punjab Kings,541.0,won by 41 runs
+336020,Delhi,15-05-2008,37,2008,Feroz Shah Kotla,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,185.0,won by 12 runs
+336021,Mumbai,16-05-2008,38,2008,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,11991.0,won by 8 wickets
+336022,Delhi,17-05-2008,40,2008,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Punjab Kings,bat,Punjab Kings,12032.0,won by 6 runs
+336023,Jaipur,17-05-2008,39,2008,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Rajasthan Royals,12107.0,won by 65 runs
+336024,Hyderabad,18-05-2008,42,2008,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,1393.0,won by 25 runs
+336025,Kolkata,18-05-2008,41,2008,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,12345.0,won by 3 runs
+336026,Bangalore,19-05-2008,43,2008,M Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Delhi Capitals,2295.0,won by 5 wickets
+336027,Kolkata,20-05-2008,44,2008,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,60.0,won by 6 wickets
+336028,Mumbai,21-05-2008,45,2008,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Punjab Kings,field,Punjab Kings,541.0,won by 1 runs
+336029,Chennai,21-05-2008,46,2008,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,12160.0,won by 14 runs
+336031,Chandigarh,23-05-2008,48,2008,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,541.0,won by 6 wickets
+336032,Delhi,24-05-2008,50,2008,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,49.0,won by 5 wickets
+336033,Chennai,24-05-2008,49,2008,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,12234.0,won by 10 runs
+336034,Bangalore,03-05-2008,21,2008,M Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Royal Challengers Bangalore,52.0,won by 3 runs
+336035,Kolkata,25-05-2008,52,2008,Eden Gardens,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Kolkata Knight Riders,12323.0,won by 3 wickets
+336036,Jaipur,26-05-2008,53,2008,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,12147.0,won by 5 wickets
+336037,Hyderabad,27-05-2008,54,2008,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,47.0,won by 7 wickets
+1082650,Hyderabad,21-05-2017,final,2017,"Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,Mumbai Indians,Rising Pune Supergiant,bat,Mumbai Indians,28.0,won by 1 runs
+1082649,Bangalore,19-05-2017,,2017,M Chinnaswamy Stadium,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,676.0,won by 6 wickets
+1082648,Bangalore,17-05-2017,,2017,M Chinnaswamy Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,471.0,won by 7 wickets
+392181,Cape Town,18-04-2009,1,2009,Newlands,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,12580.0,won by 19 runs
+392182,Cape Town,18-04-2009,2,2009,Newlands,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,11930.0,won by 75 runs
+392183,Cape Town,19-04-2009,3,2009,Newlands,Delhi Capitals,Delhi Capitals,Punjab Kings,field,Delhi Capitals,11981.0,won by 10 wickets
+392184,Cape Town,19-04-2009,4,2009,Newlands,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Sunrisers Hyderabad,12016.0,won by 8 wickets
+392185,Port Elizabeth,20-04-2009,5,2009,St George's Park,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,11951.0,won by 92 runs
+392186,Durban,21-04-2009,6,2009,Kingsmead,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,1.0,won by 11 runs
+392188,Cape Town,22-04-2009,8,2009,Newlands,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,12007.0,won by 24 runs
+392189,Durban,23-04-2009,9,2009,Kingsmead,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals,245.0,won by 9 runs
+392190,Cape Town,23-04-2009,10,2009,Newlands,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,60.0,tie
+392191,Durban,24-04-2009,11,2009,Kingsmead,Royal Challengers Bangalore,Royal Challengers Bangalore,Punjab Kings,bat,Punjab Kings,13250.0,won by 7 wickets
+392192,Durban,25-04-2009,12,2009,Kingsmead,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,12017.0,won by 12 runs
+392194,Port Elizabeth,26-04-2009,14,2009,St George's Park,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,12650.0,won by 6 wickets
+392195,Cape Town,26-04-2009,15,2009,Newlands,Punjab Kings,Punjab Kings,Rajasthan Royals,bat,Punjab Kings,11954.0,won by 27 runs
+392196,Durban,27-04-2009,16,2009,Kingsmead,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,12295.0,won by 6 wickets
+392197,Port Elizabeth,27-04-2009,17,2009,St George's Park,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,12580.0,won by 92 runs
+392198,Centurion,28-04-2009,18,2009,SuperSport Park,Delhi Capitals,Delhi Capitals,Rajasthan Royals,bat,Rajasthan Royals,60.0,won by 5 wickets
+392199,Durban,29-04-2009,19,2009,Kingsmead,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Royal Challengers Bangalore,11935.0,won by 5 wickets
+392200,Durban,29-04-2009,20,2009,Kingsmead,Punjab Kings,Punjab Kings,Mumbai Indians,bat,Punjab Kings,11954.0,won by 3 runs
+392201,Centurion,30-04-2009,21,2009,SuperSport Park,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,13245.0,won by 6 wickets
+392202,Centurion,30-04-2009,22,2009,SuperSport Park,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,47.0,won by 38 runs
+392203,East London,01-05-2009,23,2009,Buffalo Park,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,1964.0,won by 9 runs
+392204,Durban,01-05-2009,24,2009,Kingsmead,Royal Challengers Bangalore,Royal Challengers Bangalore,Punjab Kings,bat,Royal Challengers Bangalore,15.0,won by 8 runs
+392205,Port Elizabeth,02-05-2009,25,2009,St George's Park,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,60.0,won by 3 wickets
+392206,Johannesburg,02-05-2009,26,2009,New Wanderers Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,53.0,won by 18 runs
+392207,Port Elizabeth,03-05-2009,27,2009,St George's Park,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Punjab Kings,12032.0,won by 6 wickets
+392208,Johannesburg,03-05-2009,28,2009,New Wanderers Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,11933.0,won by 9 wickets
+392209,East London,04-05-2009,29,2009,Buffalo Park,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,38.0,won by 78 runs
+392210,Durban,05-05-2009,30,2009,Kingsmead,Punjab Kings,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,12107.0,won by 78 runs
+392211,Durban,05-05-2009,31,2009,Kingsmead,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,56.0,won by 9 wickets
+392212,Centurion,06-05-2009,32,2009,SuperSport Park,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,25.0,won by 19 runs
+392213,Centurion,07-05-2009,33,2009,SuperSport Park,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,13810.0,won by 7 wickets
+392214,Centurion,07-05-2009,34,2009,SuperSport Park,Chennai Super Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,11942.0,won by 12 runs
+392215,East London,08-05-2009,35,2009,Buffalo Park,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,21.0,won by 7 wickets
+392216,Kimberley,09-05-2009,36,2009,De Beers Diamond Oval,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,12032.0,won by 3 wickets
+392217,Kimberley,09-05-2009,37,2009,De Beers Diamond Oval,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Chennai Super Kings,11947.0,won by 7 wickets
+392218,Port Elizabeth,10-05-2009,38,2009,St George's Park,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,1964.0,won by 16 runs
+392219,Johannesburg,10-05-2009,39,2009,New Wanderers Stadium,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,field,Delhi Capitals,185.0,won by 7 wickets
+392220,Kimberley,11-05-2009,40,2009,De Beers Diamond Oval,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,50.0,won by 53 runs
+392221,Centurion,12-05-2009,41,2009,SuperSport Park,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,11998.0,won by 6 wickets
+392222,Centurion,12-05-2009,42,2009,SuperSport Park,Punjab Kings,Punjab Kings,Mumbai Indians,bat,Mumbai Indians,228.0,won by 8 wickets
+392223,Durban,13-05-2009,43,2009,Kingsmead,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,40.0,won by 12 runs
+392224,Durban,14-05-2009,44,2009,Kingsmead,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,11998.0,won by 2 wickets
+392225,Durban,14-05-2009,45,2009,Kingsmead,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,11971.0,won by 2 runs
+392226,Bloemfontein,15-05-2009,46,2009,OUTsurance Oval,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,11959.0,won by 6 wickets
+392227,Port Elizabeth,16-05-2009,47,2009,St George's Park,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,11942.0,won by 7 wickets
+392228,Johannesburg,16-05-2009,48,2009,New Wanderers Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,25.0,won by 6 wickets
+392229,Johannesburg,17-05-2009,49,2009,New Wanderers Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,15.0,won by 1 runs
+392230,Bloemfontein,17-05-2009,50,2009,OUTsurance Oval,Delhi Capitals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,245.0,won by 14 runs
+392231,Centurion,18-05-2009,51,2009,SuperSport Park,Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,12318.0,won by 7 wickets
+392232,Johannesburg,19-05-2009,52,2009,New Wanderers Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Royal Challengers Bangalore,11933.0,won by 7 wickets
+392233,Durban,20-05-2009,53,2009,Kingsmead,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,11924.0,won by 4 wickets
+392234,Durban,20-05-2009,54,2009,Kingsmead,Chennai Super Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,11951.0,won by 24 runs
+392235,Centurion,21-05-2009,55,2009,SuperSport Park,Delhi Capitals,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,11975.0,won by 4 wickets
+392236,Centurion,21-05-2009,56,2009,SuperSport Park,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,59.0,won by 12 runs
+1082647,Mumbai,16-05-2017,,2017,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Rising Pune Supergiant,field,Rising Pune Supergiant,613.0,won by 20 runs
+981019,Bangalore,29-05-2016,final,2016,M Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,17.0,won by 8 runs
+981017,Delhi,27-05-2016,,2016,Feroz Shah Kotla,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,field,Sunrisers Hyderabad,12.0,won by 4 wickets
+419106,Mumbai,12-03-2010,1,2010,Dr DY Patil Sports Academy,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,457.0,won by 11 runs
+419107,Mumbai,13-03-2010,2,2010,Brabourne Stadium,Mumbai Indians,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,60.0,won by 4 runs
+419108,Chandigarh,13-03-2010,3,2010,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,56.0,won by 5 wickets
+419109,Kolkata,14-03-2010,4,2010,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,39.0,won by 7 wickets
+419110,Chennai,14-03-2010,5,2010,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,12015.0,won by 31 runs
+419111,Ahmedabad,15-03-2010,6,2010,"Sardar Patel Stadium, Motera",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Delhi Capitals,11975.0,won by 6 wickets
+419112,Bangalore,16-03-2010,7,2010,M Chinnaswamy Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Royal Challengers Bangalore,11933.0,won by 8 wickets
+419113,Kolkata,16-03-2010,8,2010,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,38.0,won by 55 runs
+419114,Delhi,17-03-2010,9,2010,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,12580.0,won by 98 runs
+419115,Bangalore,18-03-2010,10,2010,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,11933.0,won by 10 wickets
+419116,Delhi,19-03-2010,11,2010,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,11942.0,won by 5 wickets
+419117,Cuttack,19-03-2010,12,2010,Barabati Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,12010.0,won by 6 runs
+419118,Ahmedabad,20-03-2010,13,2010,"Sardar Patel Stadium, Motera",Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,bat,Rajasthan Royals,14485.0,won by 34 runs
+419119,Mumbai,20-03-2010,14,2010,Brabourne Stadium,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,11933.0,won by 7 wickets
+419120,Cuttack,21-03-2010,15,2010,Barabati Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,12010.0,won by 10 runs
+419121,Chennai,21-03-2010,16,2010,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,14798.0,tie
+419122,Mumbai,22-03-2010,17,2010,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,12580.0,won by 7 wickets
+419123,Bangalore,23-03-2010,18,2010,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Royal Challengers Bangalore,58.0,won by 36 runs
+419124,Chandigarh,24-03-2010,19,2010,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,14729.0,won by 31 runs
+419125,Mumbai,25-03-2010,21,2010,"Brabourne Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,12580.0,won by 5 wickets
+419126,Ahmedabad,26-03-2010,22,2010,"Sardar Patel Stadium, Motera",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,60.0,won by 8 wickets
+419127,Chandigarh,27-03-2010,23,2010,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,39.0,won by 39 runs
+419128,Bangalore,25-03-2010,20,2010,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Capitals,field,Delhi Capitals,4.0,won by 17 runs
+419129,Ahmedabad,28-03-2010,24,2010,"Sardar Patel Stadium, Motera",Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,18.0,won by 17 runs
+419130,Mumbai,28-03-2010,25,2010,Dr DY Patil Sports Academy,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,228.0,won by 41 runs
+419131,Delhi,29-03-2010,26,2010,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,12.0,won by 40 runs
+419132,Mumbai,30-03-2010,27,2010,Brabourne Stadium,Mumbai Indians,Mumbai Indians,Punjab Kings,field,Mumbai Indians,230.0,won by 4 wickets
+419133,Chennai,31-03-2010,28,2010,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,1630.0,won by 5 wickets
+419134,Delhi,31-03-2010,29,2010,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,49.0,won by 67 runs
+419135,Kolkata,01-04-2010,30,2010,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,11919.0,won by 24 runs
+419136,Chandigarh,02-04-2010,31,2010,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,13231.0,won by 6 wickets
+419137,Chennai,03-04-2010,32,2010,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,bat,Chennai Super Kings,1630.0,won by 23 runs
+419138,Mumbai,03-04-2010,33,2010,Brabourne Stadium,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,27.0,won by 63 runs
+419139,Kolkata,04-04-2010,34,2010,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,bat,Punjab Kings,12032.0,won by 8 wickets
+419140,Delhi,04-04-2010,35,2010,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Royal Challengers Bangalore,bat,Delhi Capitals,15003.0,won by 37 runs
+419141,Nagpur,05-04-2010,36,2010,"Vidarbha Cricket Association Stadium, Jamtha",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,11971.0,won by 2 runs
+419142,Chennai,06-04-2010,37,2010,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,47.0,won by 24 runs
+419143,Jaipur,07-04-2010,38,2010,Sawai Mansingh Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,14648.0,won by 9 wickets
+419144,Kolkata,07-04-2010,39,2010,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,11919.0,won by 14 runs
+419145,Bangalore,08-04-2010,40,2010,M Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Sunrisers Hyderabad,13595.0,won by 7 wickets
+419146,Chandigarh,09-04-2010,41,2010,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings,11954.0,won by 6 wickets
+419147,Nagpur,10-04-2010,42,2010,"Vidarbha Cricket Association Stadium, Jamtha",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Sunrisers Hyderabad,13785.0,won by 6 wickets
+419148,Bangalore,10-04-2010,43,2010,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,1242.0,won by 7 wickets
+419149,Delhi,11-04-2010,44,2010,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Punjab Kings,bat,Punjab Kings,63.0,won by 7 wickets
+419150,Jaipur,11-04-2010,45,2010,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,12580.0,won by 37 runs
+419151,Nagpur,12-04-2010,46,2010,"Vidarbha Cricket Association Stadium, Jamtha",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,13267.0,won by 13 runs
+419152,Mumbai,13-04-2010,47,2010,Brabourne Stadium,Mumbai Indians,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,29.0,won by 39 runs
+419153,Chennai,13-04-2010,48,2010,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,1416.0,won by 9 wickets
+419154,Jaipur,14-04-2010,49,2010,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,13231.0,won by 5 wickets
+419155,Chennai,15-04-2010,50,2010,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals,56.0,won by 6 wickets
+419156,Dharamsala,16-04-2010,51,2010,Himachal Pradesh Cricket Association Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,25.0,won by 5 wickets
+419157,Bangalore,17-04-2010,52,2010,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,14478.0,won by 57 runs
+419158,Kolkata,17-04-2010,53,2010,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Kolkata Knight Riders,438.0,won by 8 wickets
+419159,Dharamsala,18-04-2010,54,2010,Himachal Pradesh Cricket Association Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,38.0,won by 6 wickets
+419160,Delhi,18-04-2010,55,2010,Feroz Shah Kotla,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,12010.0,won by 11 runs
+419161,Kolkata,19-04-2010,56,2010,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Kolkata Knight Riders,11928.0,won by 9 wickets
+981015,Delhi,25-05-2016,,2016,Feroz Shah Kotla,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,14.0,won by 22 runs
+981013,Bangalore,24-05-2016,,2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,field,Royal Challengers Bangalore,245.0,won by 4 wickets
+829823,Kolkata,24-05-2015,final,2015,Eden Gardens,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,25.0,won by 41 runs
+829821,Ranchi,22-05-2015,,2015,JSCA International Stadium Complex,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,21.0,won by 3 wickets
+501198,Chennai,08-04-2011,1,2011,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,12471.0,won by 2 runs
+501199,Hyderabad,09-04-2011,2,2011,"Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,11972.0,won by 8 wickets
+501200,Kochi,09-04-2011,3,2011,Nehru Stadium,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,245.0,won by 6 wickets
+501201,Delhi,10-04-2011,4,2011,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,230.0,won by 8 wickets
+501202,Mumbai,10-04-2011,5,2011,Dr DY Patil Sports Academy,Punjab Kings,Pune Warriors,Punjab Kings,bat,Pune Warriors,15150.0,won by 7 wickets
+501203,Kolkata,11-04-2011,6,2011,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,11933.0,won by 9 runs
+501204,Jaipur,12-04-2011,7,2011,Sawai Mansingh Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Rajasthan Royals,11971.0,won by 6 wickets
+501205,Bangalore,12-04-2011,8,2011,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,12580.0,won by 9 wickets
+501206,Chandigarh,13-04-2011,9,2011,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,13383.0,won by 6 wickets
+501207,Mumbai,13-04-2011,10,2011,Dr DY Patil Sports Academy,Kochi Tuskers Kerala,Pune Warriors,Kochi Tuskers Kerala,bat,Pune Warriors,14757.0,won by 4 wickets
+501208,Hyderabad,14-04-2011,11,2011,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,3451.0,won by 33 runs
+501209,Jaipur,15-04-2011,12,2011,Sawai Mansingh Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,56.0,won by 9 wickets
+501210,Mumbai,15-04-2011,13,2011,Wankhede Stadium,Kochi Tuskers Kerala,Mumbai Indians,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,46.0,won by 8 wickets
+501211,Chennai,16-04-2011,14,2011,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,11943.0,won by 21 runs
+501212,Hyderabad,16-04-2011,15,2011,"Rajiv Gandhi International Stadium, Uppal",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,13383.0,won by 8 wickets
+501213,Mumbai,17-04-2011,16,2011,Dr DY Patil Sports Academy,Delhi Capitals,Pune Warriors,Delhi Capitals,field,Delhi Capitals,15.0,won by 3 wickets
+501214,Kolkata,17-04-2011,17,2011,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,12523.0,won by 8 wickets
+501215,Kochi,18-04-2011,18,2011,Nehru Stadium,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Chennai Super Kings,field,Kochi Tuskers Kerala,46.0,won by 7 wickets
+501216,Delhi,19-04-2011,19,2011,Feroz Shah Kotla,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,12035.0,won by 16 runs
+501218,Mumbai,20-04-2011,21,2011,Wankhede Stadium,Pune Warriors,Mumbai Indians,Pune Warriors,bat,Mumbai Indians,418.0,won by 7 wickets
+501219,Kolkata,20-04-2011,22,2011,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,12032.0,won by 6 runs
+501220,Chandigarh,21-04-2011,23,2011,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Punjab Kings,541.0,won by 48 runs
+501221,Mumbai,22-04-2011,25,2011,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,228.0,won by 8 runs
+501222,Kolkata,22-04-2011,24,2011,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1.0,won by 9 wickets
+501223,Delhi,23-04-2011,26,2011,Feroz Shah Kotla,Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals,12.0,won by 29 runs
+501224,Hyderabad,24-04-2011,27,2011,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,230.0,won by 37 runs
+501225,Jaipur,24-04-2011,28,2011,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Kochi Tuskers Kerala,field,Rajasthan Royals,11971.0,won by 8 wickets
+501226,Chennai,25-04-2011,29,2011,"MA Chidambaram Stadium, Chepauk",Pune Warriors,Chennai Super Kings,Pune Warriors,field,Chennai Super Kings,11943.0,won by 25 runs
+501227,Delhi,26-04-2011,30,2011,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,332.0,won by 3 wickets
+501228,Mumbai,27-04-2011,31,2011,Dr DY Patil Sports Academy,Pune Warriors,Pune Warriors,Chennai Super Kings,bat,Chennai Super Kings,15140.0,won by 8 wickets
+501229,Kochi,27-04-2011,32,2011,Nehru Stadium,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Sunrisers Hyderabad,field,Sunrisers Hyderabad,308.0,won by 55 runs
+501230,Delhi,28-04-2011,33,2011,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,39.0,won by 17 runs
+501231,Jaipur,29-04-2011,34,2011,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,14136.0,won by 7 wickets
+501232,Bangalore,29-04-2011,35,2011,M Chinnaswamy Stadium,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,field,Royal Challengers Bangalore,332.0,won by 26 runs
+501233,Kochi,30-04-2011,36,2011,Nehru Stadium,Delhi Capitals,Kochi Tuskers Kerala,Delhi Capitals,bat,Delhi Capitals,11975.0,won by 38 runs
+501234,Kolkata,30-04-2011,37,2011,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,173.0,won by 8 wickets
+501235,Jaipur,01-05-2011,38,2011,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Pune Warriors,field,Rajasthan Royals,11998.0,won by 6 wickets
+501236,Chennai,01-05-2011,39,2011,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,12234.0,won by 19 runs
+501237,Mumbai,02-05-2011,40,2011,Wankhede Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,29.0,won by 23 runs
+501238,Delhi,02-05-2011,41,2011,Feroz Shah Kotla,Kochi Tuskers Kerala,Delhi Capitals,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,16648.0,won by 7 wickets
+501239,Hyderabad,03-05-2011,42,2011,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,60.0,won by 20 runs
+501240,Chennai,04-05-2011,43,2011,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Chennai Super Kings,11943.0,won by 8 wickets
+501241,Mumbai,04-05-2011,44,2011,Dr DY Patil Sports Academy,Pune Warriors,Pune Warriors,Mumbai Indians,field,Mumbai Indians,14765.0,won by 21 runs
+501242,Kochi,05-05-2011,45,2011,Nehru Stadium,Kolkata Knight Riders,Kochi Tuskers Kerala,Kolkata Knight Riders,field,Kochi Tuskers Kerala,12318.0,won by 17 runs
+501243,Hyderabad,05-05-2011,46,2011,"Rajiv Gandhi International Stadium, Uppal",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,11975.0,won by 4 wickets
+501244,Bangalore,06-05-2011,47,2011,M Chinnaswamy Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Royal Challengers Bangalore,1.0,won by 85 runs
+501245,Kolkata,07-05-2011,48,2011,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,173.0,won by 10 runs
+501246,Mumbai,07-05-2011,49,2011,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,27.0,won by 32 runs
+501247,Bangalore,08-05-2011,50,2011,M Chinnaswamy Stadium,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,1.0,won by 9 wickets
+501248,Chandigarh,08-05-2011,51,2011,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Pune Warriors,bat,Pune Warriors,14765.0,won by 5 wickets
+501249,Jaipur,09-05-2011,52,2011,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,field,Chennai Super Kings,1630.0,won by 63 runs
+501250,Hyderabad,10-05-2011,53,2011,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Pune Warriors,bat,Pune Warriors,4960.0,won by 6 wickets
+501251,Chandigarh,10-05-2011,54,2011,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,15867.0,won by 76 runs
+501252,Jaipur,11-05-2011,55,2011,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,8.0,won by 9 wickets
+501253,Chennai,12-05-2011,56,2011,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,38.0,won by 18 runs
+501254,Indore,13-05-2011,57,2011,Holkar Cricket Stadium,Punjab Kings,Kochi Tuskers Kerala,Punjab Kings,field,Punjab Kings,49.0,won by 6 wickets
+501255,Bangalore,14-05-2011,58,2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,1.0,won by 4 wickets
+501256,Mumbai,14-05-2011,59,2011,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,185.0,won by 10 runs
+501257,Dharamsala,15-05-2011,60,2011,Himachal Pradesh Cricket Association Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,63.0,won by 29 runs
+501258,Indore,15-05-2011,61,2011,Holkar Cricket Stadium,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Rajasthan Royals,field,Kochi Tuskers Kerala,12318.0,won by 8 wickets
+501259,Mumbai,16-05-2011,62,2011,Dr DY Patil Sports Academy,Sunrisers Hyderabad,Pune Warriors,Sunrisers Hyderabad,field,Sunrisers Hyderabad,185.0,won by 6 wickets
+501260,Dharamsala,17-05-2011,63,2011,Himachal Pradesh Cricket Association Stadium,Punjab Kings,Punjab Kings,Royal Challengers Bangalore,bat,Punjab Kings,12007.0,won by 111 runs
+501261,Chennai,18-05-2011,64,2011,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Kochi Tuskers Kerala,bat,Chennai Super Kings,69.0,won by 11 runs
+501262,Mumbai,19-05-2011,65,2011,Dr DY Patil Sports Academy,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,field,Kolkata Knight Riders,60.0,won by 7 wickets
+501263,Mumbai,20-05-2011,66,2011,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,5.0,won by 10 wickets
+501264,Dharamsala,21-05-2011,67,2011,Himachal Pradesh Cricket Association Stadium,Punjab Kings,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,13.0,won by 82 runs
+501265,Delhi,21-05-2011,68,2011,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Pune Warriors,bat,Pune Warriors,,no result
+501266,Bangalore,22-05-2011,69,2011,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,field,Royal Challengers Bangalore,1.0,won by 8 wickets
+501267,Kolkata,22-05-2011,70,2011,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,15851.0,won by 5 wickets
+829819,Pune,20-05-2015,,2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,245.0,won by 71 runs
+829817,Mumbai,19-05-2015,,2015,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,29.0,won by 25 runs
+734049,Bangalore,01-06-2014,final,2014,M Chinnaswamy Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,59.0,won by 3 wickets
+734047,Mumbai,30-05-2014,,2014,Wankhede Stadium,Chennai Super Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,11975.0,won by 24 runs
+548306,Chennai,04-04-2012,1,2012,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,34272.0,won by 8 wickets
+548307,Kolkata,05-04-2012,2,2012,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,811.0,won by 8 wickets
+548308,Mumbai,06-04-2012,3,2012,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Pune Warriors,field,Pune Warriors,36.0,won by 28 runs
+548309,Jaipur,06-04-2012,4,2012,Sawai Mansingh Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,34.0,won by 31 runs
+548310,Bangalore,07-04-2012,5,2012,M Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,245.0,won by 20 runs
+548311,Visakhapatnam,07-04-2012,6,2012,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,348.0,won by 74 runs
+548312,Jaipur,08-04-2012,7,2012,Sawai Mansingh Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,12318.0,won by 22 runs
+548313,Pune,08-04-2012,8,2012,Subrata Roy Sahara Stadium,Pune Warriors,Pune Warriors,Punjab Kings,bat,Pune Warriors,963.0,won by 22 runs
+548314,Visakhapatnam,09-04-2012,9,2012,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,25.0,won by 5 wickets
+548315,Bangalore,10-04-2012,10,2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,12523.0,won by 42 runs
+548316,Delhi,10-04-2012,11,2012,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Chennai Super Kings,field,Delhi Capitals,13863.0,won by 8 wickets
+548317,Mumbai,11-04-2012,12,2012,Wankhede Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,29.0,won by 27 runs
+548318,Chennai,12-04-2012,13,2012,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,267.0,won by 5 wickets
+548319,Chandigarh,12-04-2012,14,2012,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Pune Warriors,field,Punjab Kings,12661.0,won by 7 wickets
+548320,Kolkata,13-04-2012,15,2012,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Kolkata Knight Riders,579.0,won by 5 wickets
+548321,Delhi,19-04-2012,23,2012,Feroz Shah Kotla,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,13231.0,won by 5 wickets
+548322,Pune,14-04-2012,16,2012,Subrata Roy Sahara Stadium,Chennai Super Kings,Pune Warriors,Chennai Super Kings,bat,Pune Warriors,13228.0,won by 7 wickets
+548323,Kolkata,15-04-2012,17,2012,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,65.0,won by 2 runs
+548324,Bangalore,15-04-2012,18,2012,M Chinnaswamy Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals,34.0,won by 59 runs
+548325,Mumbai,16-04-2012,19,2012,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,186.0,won by 7 wickets
+548326,Jaipur,17-04-2012,20,2012,Sawai Mansingh Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,12318.0,won by 5 wickets
+548327,Bangalore,17-04-2012,21,2012,M Chinnaswamy Stadium,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,bat,Royal Challengers Bangalore,1.0,won by 6 wickets
+548328,Chandigarh,18-04-2012,22,2012,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,56.0,won by 8 wickets
+548329,Hyderabad,10-05-2012,55,2012,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,12.0,won by 9 wickets
+548330,Chennai,19-04-2012,24,2012,"MA Chidambaram Stadium, Chepauk",Pune Warriors,Chennai Super Kings,Pune Warriors,field,Chennai Super Kings,16414.0,won by 13 runs
+548331,Chandigarh,20-04-2012,25,2012,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1.0,won by 5 wickets
+548332,Chennai,21-04-2012,26,2012,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Chennai Super Kings,267.0,won by 7 wickets
+548333,Delhi,21-04-2012,27,2012,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Pune Warriors,field,Pune Warriors,11919.0,won by 20 runs
+548334,Mumbai,22-04-2012,28,2012,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Punjab Kings,bat,Punjab Kings,541.0,won by 6 wickets
+548335,Cuttack,22-04-2012,29,2012,Barabati Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,11959.0,won by 5 wickets
+548336,Jaipur,23-04-2012,30,2012,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,245.0,won by 46 runs
+548337,Pune,24-04-2012,31,2012,Subrata Roy Sahara Stadium,Pune Warriors,Pune Warriors,Delhi Capitals,bat,Delhi Capitals,11975.0,won by 8 wickets
+548339,Chandigarh,25-04-2012,33,2012,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Mumbai Indians,bat,Mumbai Indians,27.0,won by 4 wickets
+548341,Pune,26-04-2012,35,2012,Subrata Roy Sahara Stadium,Sunrisers Hyderabad,Pune Warriors,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,11934.0,won by 18 runs
+548342,Delhi,27-04-2012,36,2012,Feroz Shah Kotla,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,11975.0,won by 37 runs
+548343,Chennai,28-04-2012,37,2012,"MA Chidambaram Stadium, Chepauk",Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Punjab Kings,2.0,won by 7 runs
+548344,Kolkata,28-04-2012,38,2012,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Kolkata Knight Riders,56.0,won by 47 runs
+548345,Delhi,29-04-2012,39,2012,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,11975.0,won by 1 runs
+548346,Mumbai,29-04-2012,40,2012,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,3451.0,won by 5 wickets
+548347,Chennai,30-04-2012,41,2012,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,56.0,won by 5 wickets
+548348,Cuttack,01-05-2012,42,2012,Barabati Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Pune Warriors,bat,Sunrisers Hyderabad,11954.0,won by 13 runs
+548349,Jaipur,01-05-2012,43,2012,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,172.0,won by 6 wickets
+548350,Bangalore,02-05-2012,44,2012,M Chinnaswamy Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,34817.0,won by 4 wickets
+548351,Pune,03-05-2012,45,2012,Subrata Roy Sahara Stadium,Mumbai Indians,Pune Warriors,Mumbai Indians,bat,Mumbai Indians,230.0,won by 1 runs
+548352,Chennai,04-05-2012,46,2012,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,47.0,won by 10 runs
+548353,Kolkata,05-05-2012,47,2012,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Pune Warriors,bat,Kolkata Knight Riders,65.0,won by 7 runs
+548354,Chandigarh,05-05-2012,48,2012,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Rajasthan Royals,5.0,won by 43 runs
+548355,Mumbai,06-05-2012,49,2012,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,50.0,won by 2 wickets
+548356,Bangalore,06-05-2012,50,2012,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Royal Challengers Bangalore,245.0,won by 5 wickets
+548357,Delhi,07-05-2012,51,2012,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,11933.0,won by 6 wickets
+548358,Pune,08-05-2012,52,2012,Subrata Roy Sahara Stadium,Pune Warriors,Pune Warriors,Rajasthan Royals,bat,Rajasthan Royals,5.0,won by 7 wickets
+548359,Hyderabad,08-05-2012,53,2012,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,2.0,won by 25 runs
+548360,Mumbai,09-05-2012,54,2012,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1.0,won by 9 wickets
+548361,Jaipur,10-05-2012,56,2012,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Chennai Super Kings,35239.0,won by 4 wickets
+548362,Pune,11-05-2012,57,2012,Subrata Roy Sahara Stadium,Pune Warriors,Pune Warriors,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1.0,won by 35 runs
+548363,Kolkata,12-05-2012,58,2012,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,25.0,won by 27 runs
+548364,Chennai,12-05-2012,59,2012,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,35239.0,won by 9 wickets
+548365,Jaipur,13-05-2012,60,2012,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Pune Warriors,bat,Rajasthan Royals,34931.0,won by 45 runs
+548366,Chandigarh,13-05-2012,61,2012,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Punjab Kings,11922.0,won by 4 wickets
+548367,Bangalore,14-05-2012,62,2012,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,27.0,won by 5 wickets
+548368,Kolkata,14-05-2012,63,2012,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,11943.0,won by 5 wickets
+548369,Delhi,15-05-2012,64,2012,Feroz Shah Kotla,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Delhi Capitals,318.0,won by 5 wickets
+548370,Mumbai,16-05-2012,65,2012,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,65.0,won by 32 runs
+548371,Dharamsala,17-05-2012,66,2012,Himachal Pradesh Cricket Association Stadium,Punjab Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,12007.0,won by 6 wickets
+548372,Delhi,17-05-2012,67,2012,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1.0,won by 21 runs
+548373,Hyderabad,18-05-2012,68,2012,"Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,3451.0,won by 5 wickets
+548374,Dharamsala,19-05-2012,69,2012,Himachal Pradesh Cricket Association Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,318.0,won by 6 wickets
+548375,Pune,19-05-2012,70,2012,Subrata Roy Sahara Stadium,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,Kolkata Knight Riders,579.0,won by 34 runs
+548376,Hyderabad,20-05-2012,71,2012,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,3451.0,won by 9 runs
+548377,Jaipur,20-05-2012,72,2012,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,50.0,won by 10 wickets
+734045,Mumbai,28-05-2014,,2014,Brabourne Stadium,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings,47.0,won by 7 wickets
+734043,Kolkata,27-05-2014,,2014,Eden Gardens,Punjab Kings,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,318.0,won by 28 runs
+598073,Kolkata,26-05-2013,final,2013,Eden Gardens,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,29.0,won by 23 runs
+598072,Kolkata,24-05-2013,,2013,Eden Gardens,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,228.0,won by 4 wickets
+597998,Kolkata,03-04-2013,1,2013,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,field,Kolkata Knight Riders,65.0,won by 6 wickets
+597999,Bangalore,04-04-2013,2,2013,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Royal Challengers Bangalore,1.0,won by 2 runs
+598000,Hyderabad,05-04-2013,3,2013,"Rajiv Gandhi International Stadium, Uppal",Pune Warriors,Sunrisers Hyderabad,Pune Warriors,field,Sunrisers Hyderabad,185.0,won by 22 runs
+598001,Delhi,06-04-2013,4,2013,Feroz Shah Kotla,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Rajasthan Royals,11930.0,won by 5 runs
+598002,Chennai,06-04-2013,5,2013,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,29.0,won by 9 runs
+598003,Pune,07-04-2013,6,2013,Subrata Roy Sahara Stadium,Pune Warriors,Pune Warriors,Punjab Kings,bat,Punjab Kings,68.0,won by 8 wickets
+598004,Hyderabad,07-04-2013,7,2013,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,2910.0,tie
+598005,Jaipur,08-04-2013,8,2013,Sawai Mansingh Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,11972.0,won by 19 runs
+598006,Mumbai,09-04-2013,10,2013,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,49.0,won by 44 runs
+598007,Chandigarh,10-04-2013,11,2013,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,11943.0,won by 10 wickets
+598008,Bangalore,11-04-2013,12,2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,1.0,won by 8 wickets
+598009,Pune,11-04-2013,13,2013,Subrata Roy Sahara Stadium,Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,Pune Warriors,48.0,won by 7 wickets
+598010,Delhi,12-04-2013,14,2013,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,185.0,won by 3 wickets
+598011,Mumbai,13-04-2013,15,2013,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Pune Warriors,bat,Mumbai Indians,25.0,won by 41 runs
+598012,Chennai,13-04-2013,16,2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,348.0,won by 4 wickets
+598013,Kolkata,14-04-2013,17,2013,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,56.0,won by 48 runs
+598014,Jaipur,14-04-2013,18,2013,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,569.0,won by 6 wickets
+598015,Chennai,15-04-2013,19,2013,"MA Chidambaram Stadium, Chepauk",Pune Warriors,Chennai Super Kings,Pune Warriors,bat,Pune Warriors,36.0,won by 24 runs
+598016,Chandigarh,16-04-2013,20,2013,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,51.0,won by 4 runs
+598017,Bangalore,16-04-2013,21,2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Capitals,field,Delhi Capitals,332.0,tie
+598018,Pune,17-04-2013,22,2013,Maharashtra Cricket Association Stadium,Pune Warriors,Pune Warriors,Sunrisers Hyderabad,field,Sunrisers Hyderabad,185.0,won by 11 runs
+598019,Jaipur,17-04-2013,23,2013,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,34.0,won by 87 runs
+598020,Delhi,18-04-2013,24,2013,Feroz Shah Kotla,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,11943.0,won by 86 runs
+598021,Hyderabad,19-04-2013,25,2013,"Rajiv Gandhi International Stadium, Uppal",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,2910.0,won by 5 wickets
+598022,Kolkata,20-04-2013,26,2013,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,348.0,won by 4 wickets
+598023,Bangalore,20-04-2013,27,2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,1242.0,won by 7 wickets
+598024,Delhi,21-04-2013,28,2013,Feroz Shah Kotla,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,11975.0,won by 9 wickets
+598025,Chandigarh,21-04-2013,29,2013,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Pune Warriors,field,Punjab Kings,72.0,won by 7 wickets
+598026,Chennai,22-04-2013,30,2013,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Chennai Super Kings,11943.0,won by 5 wickets
+598027,Bangalore,23-04-2013,31,2013,M Chinnaswamy Stadium,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,field,Royal Challengers Bangalore,1.0,won by 130 runs
+598028,Dharamsala,16-05-2013,67,2013,Himachal Pradesh Cricket Association Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,72.0,won by 7 runs
+598029,Kolkata,24-04-2013,33,2013,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,50.0,won by 5 wickets
+598030,Chennai,25-04-2013,34,2013,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,38.0,won by 5 wickets
+598031,Kolkata,26-04-2013,35,2013,Eden Gardens,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Kolkata Knight Riders,11933.0,won by 6 wickets
+598032,Jaipur,27-04-2013,36,2013,Sawai Mansingh Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,569.0,won by 8 wickets
+598033,Mumbai,27-04-2013,37,2013,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,bat,Mumbai Indians,50.0,won by 58 runs
+598034,Chennai,28-04-2013,38,2013,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,11943.0,won by 14 runs
+598035,Raipur,28-04-2013,39,2013,Shaheed Veer Narayan Singh International Stadium,Pune Warriors,Delhi Capitals,Pune Warriors,field,Delhi Capitals,12.0,won by 15 runs
+598036,Jaipur,29-04-2013,40,2013,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,field,Rajasthan Royals,180.0,won by 4 wickets
+598037,Mumbai,29-04-2013,41,2013,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Punjab Kings,bat,Mumbai Indians,25.0,won by 4 runs
+598038,Pune,30-04-2013,42,2013,Subrata Roy Sahara Stadium,Chennai Super Kings,Pune Warriors,Chennai Super Kings,bat,Chennai Super Kings,38.0,won by 37 runs
+598039,Hyderabad,01-05-2013,43,2013,"Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,308.0,won by 7 wickets
+598040,Raipur,01-05-2013,44,2013,Shaheed Veer Narayan Singh International Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,12.0,won by 7 wickets
+598041,Chennai,02-05-2013,45,2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,47.0,won by 15 runs
+598042,Pune,02-05-2013,46,2013,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,245.0,won by 17 runs
+598043,Kolkata,03-05-2013,47,2013,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Kolkata Knight Riders,60.0,won by 8 wickets
+598044,Hyderabad,04-05-2013,48,2013,"Rajiv Gandhi International Stadium, Uppal",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,36610.0,won by 6 wickets
+598045,Bangalore,14-05-2013,63,2013,M Chinnaswamy Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,12007.0,won by 7 wickets
+598046,Mumbai,05-05-2013,49,2013,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,604.0,won by 60 runs
+598047,Jaipur,05-05-2013,50,2013,Sawai Mansingh Stadium,Pune Warriors,Rajasthan Royals,Pune Warriors,bat,Rajasthan Royals,34.0,won by 5 wickets
+598048,Bangalore,09-04-2013,9,2013,M Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,332.0,won by 7 wickets
+598049,Jaipur,07-05-2013,52,2013,Sawai Mansingh Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Rajasthan Royals,34.0,won by 9 wickets
+598050,Mumbai,07-05-2013,53,2013,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,12580.0,won by 65 runs
+598051,Hyderabad,08-05-2013,54,2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,47.0,won by 77 runs
+598052,Chandigarh,09-05-2013,55,2013,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,34343.0,won by 8 wickets
+598053,Pune,09-05-2013,56,2013,Subrata Roy Sahara Stadium,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,Kolkata Knight Riders,56.0,won by 46 runs
+598054,Delhi,10-05-2013,57,2013,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,438.0,won by 4 runs
+598055,Pune,11-05-2013,58,2013,Subrata Roy Sahara Stadium,Pune Warriors,Pune Warriors,Mumbai Indians,bat,Mumbai Indians,604.0,won by 5 wickets
+598056,Chandigarh,11-05-2013,59,2013,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,23.0,won by 30 runs
+598057,Ranchi,12-05-2013,60,2013,JSCA International Stadium Complex,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,11933.0,won by 5 wickets
+598058,Jaipur,12-05-2013,61,2013,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,5.0,won by 5 wickets
+598059,Delhi,23-04-2013,32,2013,Feroz Shah Kotla,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,13267.0,won by 5 wickets
+598060,Mumbai,13-05-2013,62,2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,29.0,won by 7 wickets
+598061,Ranchi,15-05-2013,65,2013,JSCA International Stadium Complex,Kolkata Knight Riders,Kolkata Knight Riders,Pune Warriors,field,Pune Warriors,59.0,won by 7 runs
+598062,Chennai,14-05-2013,64,2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,38.0,won by 33 runs
+598063,Mumbai,15-05-2013,66,2013,Wankhede Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,177.0,won by 14 runs
+598064,Chandigarh,06-05-2013,51,2013,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,72.0,won by 6 wickets
+598065,Hyderabad,17-05-2013,68,2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,185.0,won by 23 runs
+598066,Dharamsala,18-05-2013,69,2013,Himachal Pradesh Cricket Association Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,34817.0,won by 50 runs
+598067,Pune,19-05-2013,71,2013,Subrata Roy Sahara Stadium,Pune Warriors,Pune Warriors,Delhi Capitals,bat,Pune Warriors,34959.0,won by 38 runs
+598068,Bangalore,18-05-2013,70,2013,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Royal Challengers Bangalore,332.0,won by 24 runs
+598069,Hyderabad,19-05-2013,72,2013,"Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Sunrisers Hyderabad,23.0,won by 5 wickets
+598071,Delhi,22-05-2013,,2013,Feroz Shah Kotla,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,12318.0,won by 4 wickets
+598070,Delhi,21-05-2013,,2013,Feroz Shah Kotla,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,11943.0,won by 48 runs
+548381,Chennai,27-05-2012,final,2012,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,14505.0,won by 5 wickets
+548380,Chennai,25-05-2012,,2012,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,1630.0,won by 86 runs
+729279,Abu Dhabi,16-04-2014,1,2014,Sheikh Zayed Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Kolkata Knight Riders,11933.0,won by 41 runs
+729281,,17-04-2014,2,2014,Sharjah Cricket Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,10.0,won by 8 wickets
+729283,Abu Dhabi,18-04-2014,3,2014,Sheikh Zayed Stadium,Chennai Super Kings,Chennai Super Kings,Punjab Kings,bat,Punjab Kings,71.0,won by 6 wickets
+729285,Abu Dhabi,18-04-2014,4,2014,Sheikh Zayed Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,34.0,won by 4 wickets
+729287,,19-04-2014,5,2014,Dubai International Cricket Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,field,Royal Challengers Bangalore,23.0,won by 7 wickets
+729289,,19-04-2014,6,2014,Dubai International Cricket Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,bat,Delhi Capitals,1964.0,won by 4 wickets
+729291,,20-04-2014,7,2014,Sharjah Cricket Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,71.0,won by 7 wickets
+729293,Abu Dhabi,21-04-2014,8,2014,Sheikh Zayed Stadium,Chennai Super Kings,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,47.0,won by 93 runs
+729295,,22-04-2014,9,2014,Sharjah Cricket Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,71.0,won by 72 runs
+729297,,23-04-2014,10,2014,Dubai International Cricket Stadium,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,field,Chennai Super Kings,348.0,won by 7 runs
+729299,,24-04-2014,11,2014,Sharjah Cricket Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,57.0,won by 2 runs
+729301,,25-04-2014,12,2014,Dubai International Cricket Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,48.0,won by 4 runs
+729303,,25-04-2014,13,2014,Dubai International Cricket Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,75.0,won by 7 wickets
+729305,Abu Dhabi,26-04-2014,14,2014,Sheikh Zayed Stadium,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,field,Rajasthan Royals,37031.0,won by 6 wickets
+729307,Abu Dhabi,26-04-2014,15,2014,Sheikh Zayed Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,76.0,won by 23 runs
+729309,,27-04-2014,16,2014,Sharjah Cricket Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,1630.0,won by 6 wickets
+729311,,27-04-2014,17,2014,Sharjah Cricket Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,50.0,won by 5 wickets
+729313,,28-04-2014,18,2014,Dubai International Cricket Stadium,Punjab Kings,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,76.0,won by 5 wickets
+729315,Abu Dhabi,29-04-2014,19,2014,Sheikh Zayed Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,569.0,tie
+729317,,30-04-2014,20,2014,Dubai International Cricket Stadium,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,20.0,won by 15 runs
+733971,Ranchi,02-05-2014,21,2014,JSCA International Stadium Complex,Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,348.0,won by 34 runs
+733973,Mumbai,03-05-2014,22,2014,Wankhede Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Mumbai Indians,258.0,won by 5 wickets
+733975,Delhi,03-05-2014,23,2014,Feroz Shah Kotla,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,179.0,won by 7 wickets
+733977,Bangalore,04-05-2014,24,2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Royal Challengers Bangalore,245.0,won by 4 wickets
+733979,Ahmedabad,05-05-2014,25,2014,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,37031.0,won by 10 runs
+733981,Delhi,05-05-2014,26,2014,Feroz Shah Kotla,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,50.0,won by 8 wickets
+733983,Mumbai,06-05-2014,27,2014,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,25.0,won by 19 runs
+733985,Delhi,07-05-2014,28,2014,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,56.0,won by 8 wickets
+733987,Cuttack,07-05-2014,29,2014,Barabati Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,71.0,won by 44 runs
+733989,Ahmedabad,08-05-2014,30,2014,"Sardar Patel Stadium, Motera",Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,20.0,won by 32 runs
+733991,Bangalore,09-05-2014,31,2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,76.0,won by 32 runs
+733993,Delhi,10-05-2014,32,2014,Feroz Shah Kotla,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,3451.0,won by 8 wickets
+733995,Mumbai,10-05-2014,33,2014,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,50.0,won by 4 wickets
+733997,Cuttack,11-05-2014,34,2014,Barabati Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,56.0,won by 9 wickets
+733999,Bangalore,11-05-2014,35,2014,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals,569.0,won by 5 wickets
+734001,Hyderabad,12-05-2014,36,2014,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,27.0,won by 7 wickets
+734003,Ranchi,13-05-2014,37,2014,JSCA International Stadium Complex,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Chennai Super Kings,348.0,won by 5 wickets
+734005,Bangalore,13-05-2014,38,2014,M Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,15.0,won by 16 runs
+734007,Hyderabad,14-05-2014,39,2014,"Rajiv Gandhi International Stadium, Uppal",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,69.0,won by 6 wickets
+734009,Cuttack,14-05-2014,40,2014,Barabati Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,58.0,won by 6 wickets
+734011,Ahmedabad,15-05-2014,41,2014,"Sardar Patel Stadium, Motera",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,34.0,won by 62 runs
+734013,Ranchi,18-05-2014,42,2014,JSCA International Stadium Complex,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,245.0,won by 5 wickets
+734015,Hyderabad,18-05-2014,43,2014,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,318.0,won by 7 wickets
+734017,Ahmedabad,19-05-2014,44,2014,"Sardar Patel Stadium, Motera",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,11943.0,won by 25 runs
+734019,Delhi,19-05-2014,45,2014,Feroz Shah Kotla,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,70.0,won by 4 wickets
+734021,Hyderabad,20-05-2014,46,2014,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,12.0,won by 7 wickets
+734023,Kolkata,20-05-2014,47,2014,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders,58.0,won by 8 wickets
+734025,Chandigarh,21-05-2014,48,2014,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,1035.0,won by 7 wickets
+734027,Kolkata,22-05-2014,49,2014,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,58.0,won by 30 runs
+734029,Ranchi,22-05-2014,50,2014,JSCA International Stadium Complex,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,12.0,won by 6 wickets
+734031,Mumbai,23-05-2014,51,2014,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,11943.0,won by 15 runs
+734033,Chandigarh,23-05-2014,52,2014,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Punjab Kings,541.0,won by 16 runs
+734035,Bangalore,24-05-2014,53,2014,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,38.0,won by 8 wickets
+734037,Kolkata,24-05-2014,54,2014,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,60.0,won by 4 wickets
+734039,Chandigarh,25-05-2014,55,2014,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Delhi Capitals,field,Punjab Kings,68.0,won by 7 wickets
+734041,Mumbai,25-05-2014,56,2014,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,258.0,won by 5 wickets
+548379,Bangalore,23-05-2012,,2012,M Chinnaswamy Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings,38.0,won by 38 runs
+548378,Pune,22-05-2012,,2012,Subrata Roy Sahara Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,60.0,won by 18 runs
+501271,Chennai,28-05-2011,final,2011,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,1630.0,won by 58 runs
+501270,Chennai,27-05-2011,,2011,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Royal Challengers Bangalore,1.0,won by 43 runs
+829705,Kolkata,08-04-2015,1,2015,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,13863.0,won by 7 wickets
+829707,Chennai,09-04-2015,2,2015,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,21.0,won by 1 runs
+829709,Pune,10-04-2015,3,2015,Maharashtra Cricket Association Stadium,Punjab Kings,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,569.0,won by 26 runs
+829711,Chennai,11-04-2015,4,2015,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,46.0,won by 45 runs
+829713,Kolkata,11-04-2015,5,2015,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1.0,won by 3 wickets
+829715,Delhi,12-04-2015,6,2015,Feroz Shah Kotla,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,16.0,won by 3 wickets
+829717,Mumbai,12-04-2015,7,2015,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Punjab Kings,field,Punjab Kings,13882.0,won by 18 runs
+829719,Bangalore,13-04-2015,8,2015,M Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Sunrisers Hyderabad,12.0,won by 8 wickets
+829721,Ahmedabad,14-04-2015,9,2015,"Sardar Patel Stadium, Motera",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,36.0,won by 7 wickets
+829723,Kolkata,30-04-2015,30,2015,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders,1437.0,won by 7 wickets
+829725,Pune,15-04-2015,10,2015,Maharashtra Cricket Association Stadium,Punjab Kings,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,35.0,won by 5 wickets
+829727,Visakhapatnam,16-04-2015,11,2015,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,34.0,won by 6 wickets
+829729,Mumbai,17-04-2015,12,2015,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,21.0,won by 6 wickets
+829731,Visakhapatnam,18-04-2015,13,2015,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,1964.0,won by 4 runs
+829733,Pune,18-04-2015,14,2015,Maharashtra Cricket Association Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,1437.0,won by 4 wickets
+829735,Ahmedabad,19-04-2015,15,2015,"Sardar Patel Stadium, Motera",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,34.0,won by 8 wickets
+829737,Bangalore,19-04-2015,16,2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,228.0,won by 18 runs
+829739,Delhi,20-04-2015,17,2015,Feroz Shah Kotla,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,318.0,won by 6 wickets
+829741,Ahmedabad,21-04-2015,18,2015,"Sardar Patel Stadium, Motera",Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,541.0,tie
+829743,Visakhapatnam,22-04-2015,19,2015,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,12.0,won by 16 runs
+829745,Bangalore,22-04-2015,20,2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,47.0,won by 27 runs
+829747,Delhi,23-04-2015,21,2015,Feroz Shah Kotla,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,389.0,won by 37 runs
+829749,Ahmedabad,24-04-2015,22,2015,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,10109.0,won by 9 wickets
+829751,Mumbai,25-04-2015,23,2015,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,230.0,won by 20 runs
+829753,Chennai,25-04-2015,24,2015,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,46.0,won by 97 runs
+829757,Delhi,26-04-2015,26,2015,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,241.0,won by 10 wickets
+829759,Chandigarh,27-04-2015,27,2015,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,66.0,won by 20 runs
+829761,Kolkata,07-05-2015,42,2015,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,63.0,won by 13 runs
+829763,Bangalore,29-04-2015,29,2015,M Chinnaswamy Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,,no result
+829765,Chennai,28-04-2015,28,2015,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,1393.0,won by 2 runs
+829767,Delhi,01-05-2015,31,2015,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Punjab Kings,field,Delhi Capitals,471.0,won by 9 wickets
+829769,Mumbai,01-05-2015,32,2015,Wankhede Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,27.0,won by 8 runs
+829771,Bangalore,02-05-2015,33,2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,2.0,won by 7 wickets
+829773,Hyderabad,02-05-2015,34,2015,"Rajiv Gandhi International Stadium, Uppal",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Sunrisers Hyderabad,12.0,won by 22 runs
+829775,Chandigarh,03-05-2015,35,2015,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Mumbai Indians,1035.0,won by 23 runs
+829777,Mumbai,03-05-2015,36,2015,Brabourne Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,34.0,won by 14 runs
+829779,Chennai,04-05-2015,37,2015,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,47.0,won by 24 runs
+829781,Kolkata,04-05-2015,38,2015,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,318.0,won by 35 runs
+829783,Mumbai,05-05-2015,39,2015,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,228.0,won by 5 wickets
+829785,Bangalore,06-05-2015,40,2015,M Chinnaswamy Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Royal Challengers Bangalore,1.0,won by 138 runs
+829787,Mumbai,07-05-2015,41,2015,Brabourne Stadium,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,400.0,won by 7 runs
+829789,Chennai,08-05-2015,43,2015,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,30.0,won by 6 wickets
+829791,Kolkata,09-05-2015,44,2015,Eden Gardens,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Kolkata Knight Riders,1437.0,won by 1 wickets
+829793,Raipur,09-05-2015,45,2015,Shaheed Veer Narayan Singh International Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,14.0,won by 6 runs
+829795,Mumbai,10-05-2015,46,2015,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,245.0,won by 39 runs
+829797,Chennai,10-05-2015,47,2015,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,bat,Chennai Super Kings,348.0,won by 12 runs
+829799,Hyderabad,11-05-2015,48,2015,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,12.0,won by 5 runs
+829801,Raipur,12-05-2015,49,2015,Shaheed Veer Narayan Singh International Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,187.0,won by 6 wickets
+829803,Chandigarh,13-05-2015,50,2015,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,70.0,won by 22 runs
+829805,Mumbai,14-05-2015,51,2015,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,30.0,won by 5 runs
+829807,Hyderabad,15-05-2015,52,2015,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,332.0,won by 6 wickets
+829809,Chandigarh,16-05-2015,53,2015,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,172.0,won by 7 wickets
+829811,Mumbai,16-05-2015,54,2015,Brabourne Stadium,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,bat,Rajasthan Royals,5.0,won by 9 runs
+829813,Bangalore,17-05-2015,55,2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Capitals,field,Delhi Capitals,,no result
+829815,Hyderabad,17-05-2015,56,2015,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,32.0,won by 9 wickets
+501269,Mumbai,25-05-2011,,2011,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,418.0,won by 4 wickets
+501268,Mumbai,24-05-2011,,2011,Wankhede Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,47.0,won by 6 wickets
+419165,Mumbai,25-04-2010,final,2010,Dr DY Patil Sports Academy,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,47.0,won by 22 runs
+419164,Mumbai,24-04-2010,,2010,Dr DY Patil Sports Academy,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,12160.0,won by 9 wickets
+980901,Mumbai,09-04-2016,1,2016,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Rising Pune Supergiant,bat,Rising Pune Supergiant,34.0,won by 9 wickets
+980903,Kolkata,10-04-2016,2,2016,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,field,Kolkata Knight Riders,1437.0,won by 9 wickets
+980905,Chandigarh,11-04-2016,3,2016,"Punjab Cricket Association IS Bindra Stadium, Mohali",Gujarat Lions,Punjab Kings,Gujarat Lions,field,Gujarat Lions,48.0,won by 5 wickets
+980907,Bangalore,12-04-2016,4,2016,M Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Royal Challengers Bangalore,245.0,won by 45 runs
+980909,Kolkata,13-04-2016,5,2016,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,25.0,won by 6 wickets
+980911,Rajkot,14-04-2016,6,2016,Saurashtra Cricket Association Stadium,Rising Pune Supergiant,Gujarat Lions,Rising Pune Supergiant,bat,Gujarat Lions,48.0,won by 7 wickets
+980913,Delhi,15-04-2016,7,2016,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Punjab Kings,field,Delhi Capitals,185.0,won by 8 wickets
+980915,Hyderabad,16-04-2016,8,2016,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,56.0,won by 8 wickets
+980917,Mumbai,16-04-2016,9,2016,Wankhede Stadium,Gujarat Lions,Mumbai Indians,Gujarat Lions,field,Gujarat Lions,48.0,won by 3 wickets
+980919,Chandigarh,17-04-2016,10,2016,"Punjab Cricket Association IS Bindra Stadium, Mohali",Rising Pune Supergiant,Punjab Kings,Rising Pune Supergiant,bat,Punjab Kings,68.0,won by 6 wickets
+980921,Bangalore,17-04-2016,11,2016,M Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Delhi Capitals,1421.0,won by 7 wickets
+980923,Hyderabad,18-04-2016,12,2016,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,12.0,won by 7 wickets
+980925,Chandigarh,19-04-2016,13,2016,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,58.0,won by 6 wickets
+980927,Mumbai,20-04-2016,14,2016,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,25.0,won by 6 wickets
+980929,Rajkot,21-04-2016,15,2016,Saurashtra Cricket Association Stadium,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,field,Sunrisers Hyderabad,20.0,won by 10 wickets
+980931,Pune,22-04-2016,16,2016,Maharashtra Cricket Association Stadium,Rising Pune Supergiant,Rising Pune Supergiant,Royal Challengers Bangalore,field,Royal Challengers Bangalore,245.0,won by 13 runs
+980933,Delhi,23-04-2016,17,2016,Feroz Shah Kotla,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,180.0,won by 10 runs
+980935,Hyderabad,23-04-2016,18,2016,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,297.0,won by 5 wickets
+980937,Rajkot,24-04-2016,19,2016,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,bat,Gujarat Lions,332.0,won by 6 wickets
+980939,Pune,24-04-2016,20,2016,Maharashtra Cricket Association Stadium,Kolkata Knight Riders,Rising Pune Supergiant,Kolkata Knight Riders,field,Kolkata Knight Riders,61.0,won by 2 wickets
+980941,Chandigarh,25-04-2016,21,2016,"Punjab Cricket Association IS Bindra Stadium, Mohali",Punjab Kings,Punjab Kings,Mumbai Indians,field,Mumbai Indians,23.0,won by 25 runs
+980943,Hyderabad,26-04-2016,22,2016,"Rajiv Gandhi International Stadium, Uppal",Rising Pune Supergiant,Sunrisers Hyderabad,Rising Pune Supergiant,field,Rising Pune Supergiant,43.0,won by 34 runs
+980945,Delhi,27-04-2016,23,2016,Feroz Shah Kotla,Delhi Capitals,Delhi Capitals,Gujarat Lions,field,Gujarat Lions,182.0,won by 1 runs
+980947,Mumbai,28-04-2016,24,2016,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,25.0,won by 6 wickets
+980949,Pune,29-04-2016,25,2016,Maharashtra Cricket Association Stadium,Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,field,Gujarat Lions,50.0,won by 3 wickets
+980951,Delhi,30-04-2016,26,2016,Feroz Shah Kotla,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Delhi Capitals,183.0,won by 27 runs
+980953,Hyderabad,30-04-2016,27,2016,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,12.0,won by 15 runs
+980955,Rajkot,01-05-2016,28,2016,Saurashtra Cricket Association Stadium,Gujarat Lions,Gujarat Lions,Punjab Kings,field,Punjab Kings,70.0,won by 23 runs
+980957,Pune,01-05-2016,29,2016,Maharashtra Cricket Association Stadium,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,field,Mumbai Indians,25.0,won by 8 wickets
+980959,Bangalore,02-05-2016,30,2016,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,1437.0,won by 5 wickets
+980961,Rajkot,03-05-2016,31,2016,Saurashtra Cricket Association Stadium,Delhi Capitals,Gujarat Lions,Delhi Capitals,field,Delhi Capitals,181.0,won by 8 wickets
+980963,Kolkata,04-05-2016,32,2016,Eden Gardens,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,1437.0,won by 7 runs
+980965,Delhi,05-05-2016,33,2016,Feroz Shah Kotla,Rising Pune Supergiant,Delhi Capitals,Rising Pune Supergiant,field,Rising Pune Supergiant,34.0,won by 7 wickets
+980967,Hyderabad,06-05-2016,34,2016,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Lions,field,Sunrisers Hyderabad,20.0,won by 5 wickets
+980969,Bangalore,07-05-2016,35,2016,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Rising Pune Supergiant,field,Royal Challengers Bangalore,332.0,won by 7 wickets
+980971,Chandigarh,07-05-2016,36,2016,"Punjab Cricket Association IS Bindra Stadium, Mohali",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,73.0,won by 9 runs
+980973,Visakhapatnam,08-05-2016,37,2016,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,21.0,won by 85 runs
+980975,Kolkata,08-05-2016,38,2016,Eden Gardens,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,field,Gujarat Lions,52.0,won by 5 wickets
+980977,Chandigarh,09-05-2016,39,2016,"Punjab Cricket Association IS Bindra Stadium, Mohali",Punjab Kings,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,5.0,won by 1 runs
+1473446,Ahmedabad,29-03-2025,9,2025,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Gujarat Titans,Mumbai Indians,field,Gujarat Titans,2188.0,won by 36 runs
+980979,Visakhapatnam,10-05-2016,40,2016,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sunrisers Hyderabad,Rising Pune Supergiant,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,42.0,won by 4 runs
+980981,Bangalore,11-05-2016,41,2016,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,28.0,won by 6 wickets
+980983,Hyderabad,12-05-2016,42,2016,"Rajiv Gandhi International Stadium, Uppal",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,182.0,won by 7 wickets
+980985,Visakhapatnam,13-05-2016,43,2016,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Mumbai Indians,Mumbai Indians,Punjab Kings,bat,Punjab Kings,73.0,won by 7 wickets
+980987,Bangalore,14-05-2016,44,2016,M Chinnaswamy Stadium,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,field,Royal Challengers Bangalore,245.0,won by 144 runs
+980989,Kolkata,14-05-2016,45,2016,Eden Gardens,Rising Pune Supergiant,Kolkata Knight Riders,Rising Pune Supergiant,bat,Kolkata Knight Riders,60.0,won by 8 wickets
+980991,Chandigarh,15-05-2016,46,2016,"Punjab Cricket Association IS Bindra Stadium, Mohali",Punjab Kings,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,67.0,won by 7 wickets
+980993,Visakhapatnam,15-05-2016,47,2016,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,28.0,won by 80 runs
+980995,Kolkata,16-05-2016,48,2016,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,332.0,won by 9 wickets
+980997,Visakhapatnam,17-05-2016,49,2016,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Rising Pune Supergiant,Rising Pune Supergiant,Delhi Capitals,field,Rising Pune Supergiant,43.0,won by 19 runs
+980999,Bangalore,18-05-2016,50,2016,M Chinnaswamy Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Royal Challengers Bangalore,332.0,won by 82 runs
+981001,Kanpur,19-05-2016,51,2016,Green Park,Gujarat Lions,Gujarat Lions,Kolkata Knight Riders,field,Gujarat Lions,50.0,won by 6 wickets
+981003,Raipur,20-05-2016,52,2016,Shaheed Veer Narayan Singh International Stadium,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,179.0,won by 6 wickets
+981005,Visakhapatnam,21-05-2016,53,2016,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Punjab Kings,Rising Pune Supergiant,Punjab Kings,bat,Rising Pune Supergiant,38.0,won by 4 wickets
+981007,Kanpur,21-05-2016,54,2016,Green Park,Gujarat Lions,Gujarat Lions,Mumbai Indians,field,Gujarat Lions,47.0,won by 6 wickets
+981009,Kolkata,22-05-2016,55,2016,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,60.0,won by 22 runs
+981011,Raipur,22-05-2016,56,2016,Shaheed Veer Narayan Singh International Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,332.0,won by 6 wickets
+419163,Mumbai,22-04-2010,,2010,Dr DY Patil Sports Academy,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,15140.0,won by 38 runs
+419162,Mumbai,21-04-2010,,2010,Dr DY Patil Sports Academy,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,29.0,won by 35 runs
+392239,Johannesburg,24-05-2009,final,2009,New Wanderers Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Sunrisers Hyderabad,12160.0,won by 6 runs
+392238,Johannesburg,23-05-2009,,2009,New Wanderers Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,field,Royal Challengers Bangalore,59.0,won by 6 wickets
+1473447,Visakhapatnam,30-03-2025,10,2025,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,10109.0,won by 7 wickets
+1473448,Guwahati,30-03-2025,11,2025,"Barsapara Cricket Stadium, Guwahati",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,26.0,won by 6 runs
+1473449,Mumbai,31-03-2025,12,2025,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,41785.0,won by 8 wickets
+1473450,Lucknow,01-04-2025,13,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab Kings,Lucknow Super Giants,Punjab Kings,field,Punjab Kings,3747.0,won by 8 wickets
+1473451,Bengaluru,02-04-2025,14,2025,"M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,field,Gujarat Titans,538.0,won by 8 wickets
+1473452,Kolkata,03-04-2025,15,2025,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,6885.0,won by 80 runs
+1473453,Lucknow,04-04-2025,16,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Mumbai Indians,Lucknow Super Giants,Mumbai Indians,field,Lucknow Super Giants,11833.0,won by 12 runs
+1473454,Chennai,05-04-2025,17,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,1409.0,won by 25 runs
+1473455,Mohali,05-04-2025,18,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,1833.0,won by 50 runs
+1473456,Kolkata,08-04-2025,21,2025,"Eden Gardens, Kolkata",Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,field,Lucknow Super Giants,2766.0,won by 4 runs
+1473457,Hyderabad,06-04-2025,19,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,field,Gujarat Titans,538.0,won by 7 wickets
+1473458,Mumbai,07-04-2025,20,2025,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Royal Challengers Bangalore,5349.0,won by 12 runs
+1473459,Mohali,08-04-2025,22,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Punjab Kings,Chennai Super Kings,bat,Punjab Kings,11847.0,won by 18 runs
+1473460,Ahmedabad,09-04-2025,23,2025,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,Gujarat Titans,6999.0,won by 58 runs
+1473461,Bengaluru,10-04-2025,24,2025,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Delhi Capitals,1409.0,won by 6 wickets
+1473462,Chennai,11-04-2025,25,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,65.0,won by 8 wickets
+1473463,Lucknow,12-04-2025,26,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,field,Lucknow Super Giants,6054.0,won by 6 wickets
+1473464,Hyderabad,12-04-2025,27,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Punjab Kings,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,2349.0,won by 8 wickets
+1473465,Jaipur,13-04-2025,28,2025,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,8945.0,won by 9 wickets
+1473466,Delhi,13-04-2025,29,2025,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,676.0,won by 12 runs
+1473467,Lucknow,14-04-2025,30,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,field,Chennai Super Kings,38.0,won by 5 wickets
+1473468,Mohali,15-04-2025,31,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Punjab Kings,Kolkata Knight Riders,bat,Punjab Kings,10.0,won by 16 runs
+1473469,Delhi,16-04-2025,32,2025,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,10109.0,tie
+1473470,Mumbai,17-04-2025,33,2025,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,10630.0,won by 4 wickets
+1473471,Bengaluru,18-04-2025,34,2025,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,6550.0,won by 5 wickets
+1473472,Ahmedabad,19-04-2025,35,2025,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Delhi Capitals,Gujarat Titans,field,Gujarat Titans,24.0,won by 7 wickets
+1473473,Jaipur,19-04-2025,36,2025,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Lucknow Super Giants,Rajasthan Royals,bat,Lucknow Super Giants,1286.0,won by 2 runs
+1473474,Mohali,20-04-2025,37,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,332.0,won by 7 wickets
+1473475,Mumbai,20-04-2025,38,2025,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,25.0,won by 9 wickets
+1473476,Kolkata,21-04-2025,39,2025,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,field,Gujarat Titans,1580.0,won by 39 runs
+1473477,Lucknow,22-04-2025,40,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi Capitals,Lucknow Super Giants,Delhi Capitals,field,Delhi Capitals,8355.0,won by 8 wickets
+1473478,Hyderabad,23-04-2025,41,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,66.0,won by 7 wickets
+1473479,Bengaluru,24-04-2025,42,2025,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,4664.0,won by 11 runs
+1473480,Chennai,25-04-2025,43,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,1285.0,won by 5 wickets
+1473481,Kolkata,26-04-2025,44,2025,"Eden Gardens, Kolkata",Punjab Kings,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,,no result
+1473482,Mumbai,27-04-2025,45,2025,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,field,Mumbai Indians,10630.0,won by 54 runs
+1473483,Delhi,27-04-2025,46,2025,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,28.0,won by 6 wickets
+1473484,Jaipur,28-04-2025,47,2025,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,Rajasthan Royals,42566.0,won by 8 wickets
+1473485,Delhi,29-04-2025,48,2025,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Kolkata Knight Riders,65.0,won by 14 runs
+1473486,Chennai,30-04-2025,49,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,389.0,won by 4 wickets
+1473487,Jaipur,01-05-2025,50,2025,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,11801.0,won by 100 runs
+1473488,Ahmedabad,02-05-2025,51,2025,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,field,Gujarat Titans,2188.0,won by 38 runs
+1473489,Bengaluru,03-05-2025,52,2025,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Royal Challengers Bangalore,6761.0,won by 2 runs
+1473490,Kolkata,04-05-2025,53,2025,"Eden Gardens, Kolkata",Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,bat,Kolkata Knight Riders,1437.0,won by 1 runs
+1473491,Dharamsala,04-05-2025,54,2025,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,field,Punjab Kings,3747.0,won by 37 runs
+1473492,Hyderabad,05-05-2025,55,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,no result
+1473493,Mumbai,06-05-2025,56,2025,"Wankhede Stadium, Mumbai",Gujarat Titans,Mumbai Indians,Gujarat Titans,field,Gujarat Titans,1580.0,won by 3 wickets
+1473494,Kolkata,07-05-2025,57,2025,"Eden Gardens, Kolkata",Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,8809.0,won by 2 wickets
+1473495,Dharamsala,08-05-2025,58,2025,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,,no result
+1473497,Jaipur,18-05-2025,59,2025,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Punjab Kings,Rajasthan Royals,bat,Punjab Kings,3495.0,won by 10 runs
+1473498,Delhi,18-05-2025,60,2025,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Delhi Capitals,Gujarat Titans,field,Gujarat Titans,6999.0,won by 10 wickets
+1473499,Lucknow,19-05-2025,61,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,field,Sunrisers Hyderabad,2349.0,won by 6 wickets
+1473500,Delhi,20-05-2025,62,2025,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,9371.0,won by 6 wickets
+1473501,Mumbai,21-05-2025,63,2025,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,61.0,won by 59 runs
+1473502,Ahmedabad,22-05-2025,64,2025,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Lucknow Super Giants,Gujarat Titans,field,Lucknow Super Giants,4960.0,won by 33 runs
+1473503,Lucknow,23-05-2025,65,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,347.0,won by 42 runs
+1473504,Ahmedabad,25-05-2025,67,2025,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Chennai Super Kings,Gujarat Titans,bat,Chennai Super Kings,6944.0,won by 83 runs
+1473505,Delhi,25-05-2025,68,2025,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Sunrisers Hyderabad,1740.0,won by 110 runs
+1473506,Jaipur,26-05-2025,69,2025,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,42220.0,won by 7 wickets
+1473507,Lucknow,27-05-2025,70,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,field,Royal Challengers Bangalore,6880.0,won by 6 wickets
+392237,Centurion,22-05-2009,,2009,SuperSport Park,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,12007.0,won by 6 wickets
+336040,Mumbai,01-06-2008,final,2008,Dr DY Patil Sports Academy,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,60.0,won by 3 wickets
+336039,Mumbai,31-05-2008,,2008,Wankhede Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,12345.0,won by 9 wickets
+336038,Mumbai,30-05-2008,,2008,Wankhede Stadium,Delhi Capitals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,5.0,won by 105 runs
+1485779,Jaipur,24-05-2025,66,2025,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,10070.0,won by 6 wickets
